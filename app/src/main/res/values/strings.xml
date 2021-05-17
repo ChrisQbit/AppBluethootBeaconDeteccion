@@ -50,9 +50,10 @@
     <string name="entry" >Entrada</string >
     <string name="payment" >Pagos</string >
     <string name="access_control" >Control de acceso</string >
-    <string name="entry_desc" >Ingresa facilmente\na estacionamientos sin\nnecesidad de utilizar boleto.</string >
-    <string name="payment_desc" >Paga el estacionamiento\nautomáticamente desde tu celular.</string >
-    <string name="access_control_desc" >Otorga accesos a cualquier\nentrada que necesites.</string >
+    <string name="entry_desc" >Aproximate a la entrada de acceso y pulsa el ícono de Botón</string >
+    <string name="payment_desc" >Registra tu metodo de pago.</string >
+    <string name="access_control_desc" >Paga automaticamente desde tu celular</string >
+    <string name="exit_desc">Una vez àgada tu estancia acércate a la salida y pulsa el ícono de botón</string>
     <string name="skip" >SALTAR</string >
     <string name="taxes" >Impuestos</string >
     <string name="commissions" >Comisiones</string >
