@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">305931828918-i0rv3kmd4hbbcq5tdsv9hkdp3n039va8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://apparkame-android-a9c58.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">305931828918</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYXYQgJ9toKA6fFJmOxa3PW92e4TTem_0</string>
+    <string name="google_app_id" translatable="false">1:305931828918:android:c4558dd6133a3e74</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYXYQgJ9toKA6fFJmOxa3PW92e4TTem_0</string>
+    <string name="google_storage_bucket" translatable="false">apparkame-android-a9c58.appspot.com</string>
+    <string name="project_id" translatable="false">apparkame-android-a9c58</string>
+</resources>

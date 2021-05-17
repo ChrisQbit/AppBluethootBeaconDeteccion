@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ApparkameTimerView">
+        <attr name="startAngle" format="float" />
+        <attr name="progress" format="float" />
+        <attr name="clockwise" format="boolean" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="strokeColor" format="color" />
+        <attr name="strokeShadowWidth" format="dimension" />
+        <attr name="strokeShadowColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="ApparkameLoadingView">
+        <attr name="paddingTop" format="dimension" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/background_lightgray"
+                android:paddingTop="30dp" >
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|center"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_margin="30dp"
+                        app:srcCompat="@drawable/ic_logo" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:text="@string/email"
+                        android:textColor="@color/white"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/loginEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/et_background"
+                        android:inputType="textEmailAddress"
+                        android:paddingLeft="6dp"
+                        android:paddingRight="6dp"
+                        android:textColor="@color/white"
+                        android:textColorHighlight="@color/white"
+                        android:textColorHint="@color/white"
+                        android:textColorLink="@color/white" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:text="@string/password"
+                        android:textColor="@color/white"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/loginPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/et_background"
+                        android:inputType="textPassword"
+                        android:paddingLeft="6dp"
+                        android:paddingRight="6dp"
+                        android:textColor="@color/white"
+                        android:textColorHighlight="@color/white"
+                        android:textColorHint="@color/white"
+                        android:textColorLink="@color/white" />
+
+                    <TextView
+                        android:id="@+id/btnForgotPassword"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="15dp"
+                        android:background="@drawable/blue_stroke_void_circle"
+                        android:onClick="onClick"
+                        android:paddingLeft="12dp"
+                        android:paddingTop="4dp"
+                        android:paddingRight="12dp"
+                        android:paddingBottom="6dp"
+                        android:text="@string/forgot_password"
+                        android:textColor="@color/white"
+                        android:textColorHighlight="@color/white"
+                        android:textColorHint="@color/white"
+                        android:textColorLink="@color/white" />
+
+                    <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
+                        android:id="@+id/btnLogin"
+                        style="@style/BtnPrimary"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginBottom="150dp"
+                        android:onClick="onClick"
+                        android:text="@string/login"
+                        app:initialCornerAngle="25dp"
+                        app:spinning_bar_color="#FFF"
+                        app:spinning_bar_padding="6dp"
+                        app:spinning_bar_width="4dp" />
+
+                </LinearLayout >
+
+            </FrameLayout >
+
+        </LinearLayout >
+
+    </ScrollView >
+
+</RelativeLayout >

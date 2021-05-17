@@ -1,0 +1,508 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cdsautomatico.apparkame2"
+4    android:versionCode="24"
+5    android:versionName="2.1.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:6:5-69
+11-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:6:22-66
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:10:5-66
+15-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:10:22-63
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:24:5-79
+16-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:24:22-76
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:25:5-68
+17-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:25:22-65
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+18-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:26:22-107
+19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+19-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:26:5-82
+19-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:26:22-79
+20    <uses-permission
+20-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:11:5-13:36
+21        android:name="android.permission.BLUETOOTH"
+21-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:12:9-52
+22        android:required="false" />
+22-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:13:9-33
+23    <uses-permission
+23-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:14:5-16:36
+24        android:name="android.permission.BLUETOOTH_ADMIN"
+24-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:15:9-58
+25        android:required="false" />
+25-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:16:9-33
+26    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+26-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:17:5-81
+26-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:17:22-78
+27    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+27-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:18:5-81
+27-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:18:22-78
+28
+29    <application
+29-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:12:5-103:20
+30        android:name="android.support.multidex.MultiDexApplication"
+31        android:allowBackup="true"
+31-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:13:9-35
+32        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+32-->[com.android.support:support-compat:28.0.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\a54f3b0990b00970c63ed3dbcf238fa4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_logo"
+34-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:14:9-39
+35        android:label="@string/app_name"
+35-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:15:9-41
+36        android:networkSecurityConfig="@xml/network_security_config"
+36-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:16:9-69
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:17:9-54
+38        android:supportsRtl="true"
+38-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:18:9-35
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme"
+40-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:19:9-40
+41        android:usesCleartextTraffic="true" >
+41-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:20:9-44
+42        <uses-library
+42-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:22:9-87
+43            android:name="org.apache.http.legacy"
+43-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:22:23-60
+44            android:required="false" />
+44-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:22:61-85
+45
+46        <meta-data
+46-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:24:9-26:55
+47            android:name="com.facebook.sdk.ApplicationId"
+47-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:25:13-58
+48            android:value="@string/facebook_app_id" />
+48-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:26:13-52
+49
+50        <activity
+50-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:28:9-36:21
+51            android:name="com.cdsautomatico.apparkame2.activities.MainActivity"
+51-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:29:13-52
+52            android:screenOrientation="portrait" >
+52-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:30:13-49
+53            <intent-filter>
+53-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:31:13-35:30
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:32:17-69
+54-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:32:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:34:17-77
+56-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:34:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:37:9-40:57
+60            android:name="com.cdsautomatico.apparkame2.activities.LoginActivity"
+60-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:38:13-53
+61            android:screenOrientation="portrait"
+61-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:39:13-49
+62            android:windowSoftInputMode="stateHidden" />
+62-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:40:13-54
+63        <activity
+63-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:41:9-45:57
+64            android:name="com.cdsautomatico.apparkame2.activities.RecuperarContraseniaActivity"
+64-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:42:13-68
+65            android:label="@string/title_activity_recuperar_contrasenia"
+65-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:43:13-73
+66            android:screenOrientation="portrait"
+66-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:44:13-49
+67            android:windowSoftInputMode="stateHidden" />
+67-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:45:13-54
+68        <activity
+68-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:46:9-50:57
+69            android:name="com.cdsautomatico.apparkame2.activities.PerfilActivity"
+69-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:47:13-54
+70            android:label="@string/title_activity_perfil"
+70-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:48:13-58
+71            android:screenOrientation="portrait"
+71-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:49:13-49
+72            android:windowSoftInputMode="stateHidden" />
+72-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:50:13-54
+73        <activity
+73-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:51:9-55:57
+74            android:name="com.cdsautomatico.apparkame2.activities.FormasPagoActivity"
+74-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:52:13-58
+75            android:label="@string/title_activity_formas_pago"
+75-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:53:13-63
+76            android:screenOrientation="portrait"
+76-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:54:13-49
+77            android:windowSoftInputMode="stateHidden" />
+77-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:55:13-54
+78        <activity
+78-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:56:9-60:57
+79            android:name="com.cdsautomatico.apparkame2.activities.FormasPagoAgregarActivity"
+79-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:57:13-65
+80            android:label="@string/title_activity_formas_pago_agregar"
+80-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:58:13-71
+81            android:screenOrientation="portrait"
+81-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:59:13-49
+82            android:windowSoftInputMode="stateHidden" />
+82-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:60:13-54
+83        <activity
+83-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:61:9-65:57
+84            android:name="com.cdsautomatico.apparkame2.activities.PensionesActivity"
+84-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:62:13-57
+85            android:label="@string/title_activity_pensiones"
+85-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:63:13-61
+86            android:screenOrientation="portrait"
+86-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:64:13-49
+87            android:windowSoftInputMode="stateHidden" />
+87-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:65:13-54
+88        <activity
+88-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:66:9-69:48
+89            android:name="com.facebook.FacebookActivity"
+89-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:67:13-57
+90            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+90-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:68:13-96
+91            android:label="@string/app_name"
+91-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:69:13-45
+92            android:theme="@style/com_facebook_activity_theme" />
+92-->[com.facebook.android:facebook-common:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\06b1d9b22dba99c05a47cfe19b287eb0\facebook-common-4.40.0\AndroidManifest.xml:32:13-63
+93        <activity
+93-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:70:9-81:21
+94            android:name="com.facebook.CustomTabActivity"
+94-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:71:13-58
+95            android:exported="true" >
+95-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:72:13-36
+96            <intent-filter>
+96-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:73:13-80:30
+97                <action android:name="android.intent.action.VIEW" />
+97-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:74:17-69
+97-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:74:25-66
+98
+99                <category android:name="android.intent.category.DEFAULT" />
+99-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:76:17-76
+99-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:76:27-73
+100                <category android:name="android.intent.category.BROWSABLE" />
+100-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:77:17-78
+100-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:77:27-75
+101
+102                <data android:scheme="@string/fb_login_protocol_scheme" />
+102-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:79:17-75
+102-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:79:23-72
+103            </intent-filter>
+104        </activity>
+105        <activity android:name="com.cdsautomatico.apparkame2.activities.MessageActivity" />
+105-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:82:9-64
+105-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:82:19-61
+106        <activity
+106-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:83:9-85:55
+107            android:name="com.cdsautomatico.apparkame2.activities.HistoryActivity"
+107-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:84:13-55
+108            android:label="@string/payment_history" />
+108-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:85:13-52
+109        <activity android:name="com.cdsautomatico.apparkame2.activities.OnboardingActivity" />
+109-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:86:9-67
+109-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:86:19-64
+110        <activity android:name="com.cdsautomatico.apparkame2.activities.NoMapa" />
+110-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:87:9-55
+110-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:87:19-52
+111        <activity android:name="com.cdsautomatico.apparkame2.activities.ExtendValidityActivity" />
+111-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:88:9-71
+111-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:88:19-68
+112
+113        <service android:name="com.cdsautomatico.apparkame2.dataSource.SocketConsumer" />
+113-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:90:9-62
+113-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:90:18-59
+114
+115        <provider
+115-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:92:9-102:21
+116            android:name="android.support.v4.content.FileProvider"
+116-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:93:13-67
+117            android:authorities="com.mvc.imagepicker.provider"
+117-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:94:13-63
+118            android:exported="false"
+118-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:95:13-37
+119            android:grantUriPermissions="true" >
+119-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:96:13-47
+120            <meta-data
+120-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:98:13-101:52
+121                android:name="android.support.FILE_PROVIDER_PATHS"
+121-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:99:17-67
+122                android:resource="@xml/provider_paths" />
+122-->C:\Proyectos\apparkame-android\app\src\main\AndroidManifest.xml:100:17-55
+123        </provider>
+124
+125        <activity android:name="com.facebook.CustomTabMainActivity" />
+125-->[com.facebook.android:facebook-common:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\06b1d9b22dba99c05a47cfe19b287eb0\facebook-common-4.40.0\AndroidManifest.xml:33:9-71
+125-->[com.facebook.android:facebook-common:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\06b1d9b22dba99c05a47cfe19b287eb0\facebook-common-4.40.0\AndroidManifest.xml:33:19-68
+126        <!--
+127         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+128         with the application context. This config is merged in with the host app's manifest,
+129         but there can only be one provider with the same authority activated at any given
+130         point; so if the end user has two or more different apps that use Facebook SDK, only the
+131         first one will be able to use the provider. To work around this problem, we use the
+132         following placeholder in the authority to identify each host application as if it was
+133         a completely different provider.
+134        -->
+135        <provider
+135-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:39:9-42:40
+136            android:name="com.facebook.internal.FacebookInitProvider"
+136-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:40:13-70
+137            android:authorities="com.cdsautomatico.apparkame2.FacebookInitProvider"
+137-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:41:13-72
+138            android:exported="false" />
+138-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:42:13-37
+139
+140        <receiver
+140-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:44:9-50:20
+141            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+141-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:45:13-86
+142            android:exported="false" >
+142-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:46:13-37
+143            <intent-filter>
+143-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:47:13-49:29
+144                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+144-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:48:17-95
+144-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\bb946c7f1c42b3d4d46ecc07ea9c57f1\facebook-core-4.40.0\AndroidManifest.xml:48:25-92
+145            </intent-filter>
+146        </receiver>
+147
+148        <provider
+148-->[com.squareup.picasso:picasso:2.71828] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\e61ec90768013630ebc6242253b57243\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+149            android:name="com.squareup.picasso.PicassoProvider"
+149-->[com.squareup.picasso:picasso:2.71828] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\e61ec90768013630ebc6242253b57243\picasso-2.71828\AndroidManifest.xml:9:13-64
+150            android:authorities="com.cdsautomatico.apparkame2.com.squareup.picasso"
+150-->[com.squareup.picasso:picasso:2.71828] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\e61ec90768013630ebc6242253b57243\picasso-2.71828\AndroidManifest.xml:10:13-72
+151            android:exported="false" />
+151-->[com.squareup.picasso:picasso:2.71828] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\e61ec90768013630ebc6242253b57243\picasso-2.71828\AndroidManifest.xml:11:13-37
+152
+153        <receiver
+153-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:29:9-33:20
+154            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+154-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:30:13-85
+155            android:enabled="true"
+155-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:31:13-35
+156            android:exported="false" >
+156-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:32:13-37
+157        </receiver>
+158        <receiver
+158-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:34:9-42:20
+159            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+159-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:35:13-100
+160            android:enabled="true"
+160-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:36:13-35
+161            android:exported="true"
+161-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:37:13-36
+162            android:permission="android.permission.INSTALL_PACKAGES" >
+162-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:38:13-69
+163            <intent-filter>
+163-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:39:13-41:29
+164                <action android:name="com.android.vending.INSTALL_REFERRER" />
+164-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:40:17-79
+164-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:40:25-76
+165            </intent-filter>
+166        </receiver>
+167
+168        <service
+168-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:44:9-47:40
+169            android:name="com.google.android.gms.measurement.AppMeasurementService"
+169-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:45:13-84
+170            android:enabled="true"
+170-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:46:13-35
+171            android:exported="false" />
+171-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:47:13-37
+172        <service
+172-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:48:9-52:72
+173            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+173-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:49:13-87
+174            android:enabled="true"
+174-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:50:13-35
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:51:13-37
+176            android:permission="android.permission.BIND_JOB_SERVICE" />
+176-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\8e4ea17f017aa38df2fccf6945fc7928\play-services-measurement-16.5.0\AndroidManifest.xml:52:13-69
+177        <service
+177-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4f0336737befd602b654b7a69f6f0ed7\play-services-measurement-api-16.5.0\AndroidManifest.xml:27:9-33:19
+178            android:name="com.google.firebase.components.ComponentDiscoveryService"
+178-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4f0336737befd602b654b7a69f6f0ed7\play-services-measurement-api-16.5.0\AndroidManifest.xml:28:13-84
+179            android:exported="false" >
+179-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4f0336737befd602b654b7a69f6f0ed7\play-services-measurement-api-16.5.0\AndroidManifest.xml:29:13-37
+180            <meta-data
+180-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4f0336737befd602b654b7a69f6f0ed7\play-services-measurement-api-16.5.0\AndroidManifest.xml:30:13-32:85
+181                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+181-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4f0336737befd602b654b7a69f6f0ed7\play-services-measurement-api-16.5.0\AndroidManifest.xml:31:17-139
+182                android:value="com.google.firebase.components.ComponentRegistrar" />
+182-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4f0336737befd602b654b7a69f6f0ed7\play-services-measurement-api-16.5.0\AndroidManifest.xml:32:17-82
+183            <meta-data
+183-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:32:13-34:85
+184                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+184-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:33:17-96
+185                android:value="com.google.firebase.components.ComponentRegistrar" />
+185-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:34:17-82
+186        </service>
+187
+188        <receiver
+188-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:37:9-44:20
+189            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+189-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:38:13-78
+190            android:exported="true"
+190-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:39:13-36
+191            android:permission="com.google.android.c2dm.permission.SEND" >
+191-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:40:13-73
+192            <intent-filter>
+192-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:41:13-43:29
+193                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+193-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:42:17-81
+193-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:42:25-78
+194            </intent-filter>
+195        </receiver>
+196        <!--
+197             FirebaseInstanceIdService performs security checks at runtime,
+198             no need for explicit permissions despite exported="true"
+199        -->
+200        <service
+200-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:50:9-56:19
+201            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+201-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:51:13-77
+202            android:exported="true" >
+202-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:52:13-36
+203            <intent-filter android:priority="-500" >
+203-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:53:13-55:29
+203-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:53:28-51
+204                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+204-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:54:17-80
+204-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\239d0e36d898ee18e6d057ff96e2bef9\firebase-iid-17.1.2\AndroidManifest.xml:54:25-77
+205            </intent-filter>
+206        </service>
+207
+208        <provider
+208-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\ec6c58239c3fd785d0c1a30f2f728bd9\firebase-common-16.1.0\AndroidManifest.xml:12:9-16:39
+209            android:name="com.google.firebase.provider.FirebaseInitProvider"
+209-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\ec6c58239c3fd785d0c1a30f2f728bd9\firebase-common-16.1.0\AndroidManifest.xml:13:13-77
+210            android:authorities="com.cdsautomatico.apparkame2.firebaseinitprovider"
+210-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\ec6c58239c3fd785d0c1a30f2f728bd9\firebase-common-16.1.0\AndroidManifest.xml:14:13-72
+211            android:exported="false"
+211-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\ec6c58239c3fd785d0c1a30f2f728bd9\firebase-common-16.1.0\AndroidManifest.xml:15:13-37
+212            android:initOrder="100" />
+212-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\ec6c58239c3fd785d0c1a30f2f728bd9\firebase-common-16.1.0\AndroidManifest.xml:16:13-36
+213
+214        <activity
+214-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4476ea384ae5602ccc02b073404768d9\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+215            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+215-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4476ea384ae5602ccc02b073404768d9\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+216            android:exported="false"
+216-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4476ea384ae5602ccc02b073404768d9\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+217            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+217-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\4476ea384ae5602ccc02b073404768d9\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+218
+219        <meta-data
+219-->[com.google.android.gms:play-services-basement:16.2.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6c05e021173637abac4d9290c8198392\play-services-basement-16.2.0\AndroidManifest.xml:23:9-25:69
+220            android:name="com.google.android.gms.version"
+220-->[com.google.android.gms:play-services-basement:16.2.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6c05e021173637abac4d9290c8198392\play-services-basement-16.2.0\AndroidManifest.xml:24:13-58
+221            android:value="@integer/google_play_services_version" />
+221-->[com.google.android.gms:play-services-basement:16.2.0] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6c05e021173637abac4d9290c8198392\play-services-basement-16.2.0\AndroidManifest.xml:25:13-66
+222
+223        <receiver android:name="org.altbeacon.beacon.startup.StartupBroadcastReceiver" >
+223-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:21:9-27:20
+223-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:21:19-87
+224            <intent-filter>
+224-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:22:13-26:29
+225                <action android:name="android.intent.action.BOOT_COMPLETED" />
+225-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:23:17-79
+225-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:23:25-76
+226                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+226-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:24:17-87
+226-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:24:25-84
+227                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+227-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:25:17-90
+227-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:25:25-87
+228            </intent-filter>
+229        </receiver>
+230
+231        <service
+231-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:29:9-34:38
+232            android:name="org.altbeacon.beacon.service.BeaconService"
+232-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:30:13-70
+233            android:enabled="true"
+233-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:31:13-35
+234            android:exported="false"
+234-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:32:13-37
+235            android:isolatedProcess="false"
+235-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:33:13-44
+236            android:label="beacon" />
+236-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:34:13-35
+237        <service
+237-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:35:9-38:40
+238            android:name="org.altbeacon.beacon.BeaconIntentProcessor"
+238-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:36:13-70
+239            android:enabled="true"
+239-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:37:13-35
+240            android:exported="false" />
+240-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:38:13-37
+241        <service
+241-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:39:9-48:19
+242            android:name="org.altbeacon.beacon.service.ScanJob"
+242-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:40:13-64
+243            android:permission="android.permission.BIND_JOB_SERVICE" >
+243-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:41:13-69
+244            <meta-data
+244-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:42:13-44:45
+245                android:name="immediateScanJobId"
+245-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:43:17-50
+246                android:value="208352939" />
+246-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:44:17-42
+247            <meta-data
+247-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:45:13-47:45
+248                android:name="periodicScanJobId"
+248-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:46:17-49
+249                android:value="208352940" />
+249-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:47:17-42
+250        </service>
+251        <service
+251-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:49:9-55:19
+252            android:name="org.altbeacon.bluetooth.BluetoothTestJob"
+252-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:50:13-68
+253            android:permission="android.permission.BIND_JOB_SERVICE" >
+253-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:51:13-69
+254            <meta-data
+254-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:52:13-54:46
+255                android:name="jobId"
+255-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:53:17-37
+256                android:value="1799803768" />
+256-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\b80547e13ca363d7389c76f26eabf63f\android-beacon-library-2.16.1\AndroidManifest.xml:54:17-43
+257        </service>
+258
+259        <provider
+259-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\269156c7d9afe401f9d661c5c67b5346\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+260            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+260-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\269156c7d9afe401f9d661c5c67b5346\extensions-1.1.1\AndroidManifest.xml:24:13-83
+261            android:authorities="com.cdsautomatico.apparkame2.lifecycle-trojan"
+261-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\269156c7d9afe401f9d661c5c67b5346\extensions-1.1.1\AndroidManifest.xml:25:13-68
+262            android:exported="false"
+262-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\269156c7d9afe401f9d661c5c67b5346\extensions-1.1.1\AndroidManifest.xml:26:13-37
+263            android:multiprocess="true" />
+263-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\269156c7d9afe401f9d661c5c67b5346\extensions-1.1.1\AndroidManifest.xml:27:13-40
+264        <provider
+264-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6d8bafe9a7d553d4bce6a7326178e12a\crashlytics-2.10.1\AndroidManifest.xml:19:9-23:38
+265            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+265-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6d8bafe9a7d553d4bce6a7326178e12a\crashlytics-2.10.1\AndroidManifest.xml:20:13-75
+266            android:authorities="com.cdsautomatico.apparkame2.crashlyticsinitprovider"
+266-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6d8bafe9a7d553d4bce6a7326178e12a\crashlytics-2.10.1\AndroidManifest.xml:21:13-75
+267            android:exported="false"
+267-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6d8bafe9a7d553d4bce6a7326178e12a\crashlytics-2.10.1\AndroidManifest.xml:22:13-37
+268            android:initOrder="90" />
+268-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Solís Gómez\.gradle\caches\transforms-2\files-2.1\6d8bafe9a7d553d4bce6a7326178e12a\crashlytics-2.10.1\AndroidManifest.xml:23:13-35
+269    </application>
+270
+271</manifest>

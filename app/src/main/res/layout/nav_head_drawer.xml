@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@color/colorAccent" />
+
+    </FrameLayout >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="6dp"
+        android:gravity="right"
+        android:id="@+id/lblVersion"
+        android:textColor="#fff"
+        android:textSize="11dp"
+        tools:ignore="RtlHardcoded" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:paddingStart="20dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="15dp" >
+
+        <FrameLayout
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/ic_profile" />
+
+            <com.cdsautomatico.apparkame2.utils.RoundedImageView
+                android:id="@+id/avatar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </FrameLayout >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/nombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:text="Usuario"
+                android:textColor="#fff"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="usuario@apparkame.com"
+                android:textColor="#fff"
+                android:textSize="11dp" />
+
+            <TextView
+                android:id="@+id/usuarioId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Botón. ID 010101"
+                android:textColor="#fff"
+                android:textSize="11dp" />
+
+        </LinearLayout >
+
+    </LinearLayout >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="100dp"
+        android:background="#66ffffff" />
+
+    <LinearLayout
+        android:id="@+id/menuPensiones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="101dp"
+        android:onClick="onClick"
+        android:orientation="vertical"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Haz más con tu cuenta"
+            android:textColor="#fff"
+            android:textSize="11dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Acceso VIP"
+            android:textColor="#fff"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+    </LinearLayout >
+
+</FrameLayout >

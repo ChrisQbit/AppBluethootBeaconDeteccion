@@ -1,0 +1,101 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '27.0.3'
+    defaultConfig {
+        applicationId 'com.cdsautomatico.apparkame2'
+        minSdkVersion 19
+        targetSdkVersion 28
+        multiDexEnabled true
+        versionCode 24
+        versionName "2.1.5"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+        exclude("META-INF/*.kotlin_module")
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            buildConfigField "String", "API_URL", "\"https://boton.app:8080\""
+            buildConfigField "String", "CDS_PROCESS", "\"http://104.192.5.155:81\""
+            buildConfigField "String", "API_NETCORE", "\"https://boton.app\""
+            buildConfigField "String", "CONEKTA_PUBLIC", "\"key_XGi73Rj5HzFcnBtsrUGwzdg\""
+            buildConfigField "String", "CONEKTA_VERSION", "\"1.0.0\""
+        }
+        debug {
+            buildConfigField "String", "API_URL", "\"http://104.192.6.52:8080\""
+            buildConfigField "String", "CDS_PROCESS", "\"http://104.192.6.52:81\""
+            buildConfigField "String", "API_NETCORE", "\"http://104.192.6.52\""
+            buildConfigField "String", "CONEKTA_PUBLIC", "\"key_Hy7Sn9aExThxTdf2VZosHoQ\""
+            buildConfigField "String", "CONEKTA_VERSION", "\"1.0.0\""
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    implementation 'com.facebook.android:facebook-login:4.40.0'
+    implementation 'com.facebook.android:facebook-core:4.40.0'
+
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support:exifinterface:28.0.0'
+    implementation 'com.android.support:customtabs:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.3.1'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.google.code.gson:gson:2.8.2'
+    implementation 'io.conekta:conektasdk:2.0'
+    implementation 'org.altbeacon:android-beacon-library:2.16.1'
+    implementation 'br.com.simplepass:loading-button-android:1.8.4'
+    implementation 'com.github.Mariovc:ImagePicker:1.2.2'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.google.firebase:firebase-core:16.0.9'
+    implementation 'org.apache.httpcomponents:httpclient:4.5.6'
+    implementation "com.squareup.okhttp3:okhttp:4.3.1"
+    implementation 'com.android.support:multidex:1.0.3'
+
+    implementation 'android.arch.lifecycle:extensions:1.1.1'
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
+    implementation 'com.github.bumptech.glide:glide:3.3.+'
+
+    testImplementation 'junit:junit:4.12'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+}
+
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'io.fabric'

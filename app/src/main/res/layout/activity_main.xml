@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <FrameLayout
+            android:id="@+id/btnMenu"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="25dp"
+            android:onClick="onClick" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:tint="@color/white"
+                app:srcCompat="@drawable/ic_menu_black_24dp" />
+
+        </FrameLayout >
+
+        <fragment
+            android:id="@+id/viewer"
+            android:name="com.cdsautomatico.apparkame2.activities.TicketFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:tag="TicketFragment"
+            tools:layout="@layout/fragment_ticket" />
+
+        <!--FrameLayout
+        android:id="@+id/contentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" /-->
+
+        <include
+            android:id="@+id/dialogoMensaje"
+            layout="@layout/dialogo_mensaje"
+            android:visibility="gone" />
+
+    </RelativeLayout >
+
+    <!-- The navigation drawer -->
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#f1eff0"
+        app:headerLayout="@layout/nav_head_drawer"
+        app:itemTextColor="@color/textLightGray"
+        app:menu="@menu/right_navigator" />
+
+</androidx.drawerlayout.widget.DrawerLayout >

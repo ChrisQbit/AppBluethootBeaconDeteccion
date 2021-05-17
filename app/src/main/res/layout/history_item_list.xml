@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    android:padding="4dp" >
+
+    <TextView
+        android:id="@+id/lblPayments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/payments_made"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@id/parkingName"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+    <ImageView
+        android:id="@+id/parkingImg"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:contentDescription="@string/payment_method"
+        android:scaleType="centerCrop"
+        android:src="@drawable/fondo_header"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/arrow"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_margin="10dp"
+        android:contentDescription="@string/touch_to_drop_down"
+        android:src="@android:drawable/arrow_down_float"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/estacionamientoInfoBackColor"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/parking_header_bg"
+        android:contentDescription="@string/payment_method"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/parkingName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:text="@string/texto_de_prueba"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/date"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="12dp"
+        android:text="@string/money_place_holder"
+        android:textColor="@color/colorAccent"
+        android:textSize="22sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="@id/date"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="12dp"
+        android:text="@string/date_place_holder"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@id/parkingImg"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+    <com.cdsautomatico.apparkame2.views.CustomRecyclerView
+        android:id="@+id/ticketPayments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintBottom_toBottomOf="@id/parkingImg"
+        tools:itemCount="0"
+        tools:listitem="@layout/payment_item_list" />
+
+</androidx.constraintlayout.widget.ConstraintLayout >

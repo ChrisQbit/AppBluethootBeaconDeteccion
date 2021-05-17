@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "305931828918",
+    "firebase_url": "https://apparkame-android-a9c58.firebaseio.com",
+    "project_id": "apparkame-android-a9c58",
+    "storage_bucket": "apparkame-android-a9c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305931828918:android:c4558dd6133a3e74",
+        "android_client_info": {
+          "package_name": "com.cdsautomatico.apparkame2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305931828918-j0mcs6h2iqdd5m5g3tc0b4kfok5ia69i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdsautomatico.apparkame2",
+            "certificate_hash": "b2be1b8df032d8ce6512c6e8e04ed2b774654e3d"
+          }
+        },
+        {
+          "client_id": "305931828918-i0rv3kmd4hbbcq5tdsv9hkdp3n039va8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXYQgJ9toKA6fFJmOxa3PW92e4TTem_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305931828918-i0rv3kmd4hbbcq5tdsv9hkdp3n039va8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

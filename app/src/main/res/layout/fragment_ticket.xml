@@ -1,0 +1,392 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transparent" >
+
+    <FrameLayout
+        android:id="@+id/estacionamientoInfo"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@color/colorPrimary" >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/parkingImg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/fondo_header" />
+
+            <View
+                android:id="@+id/estacionamientoInfoBackColor"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/parking_header_bg" />
+
+        </FrameLayout >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="25dp" >
+
+            <FrameLayout
+                android:id="@+id/btnMenu"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="onClick" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:tint="@android:color/white"
+                    app:srcCompat="@drawable/ic_menu_black_24dp" />
+
+            </FrameLayout >
+
+            <FrameLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="45dp"
+                android:background="@drawable/circle_spaces"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/estacionamientoEspacios"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="5dp"
+                    android:text="100"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="28sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|bottom"
+                    android:layout_marginBottom="15dp"
+                    android:text="cajones"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="10dp" />
+
+                <!--<ImageView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"-->
+                <!--app:srcCompat="@drawable/ic_profile" />-->
+
+                <!--<com.cdsautomatico.apparkame2.utils.RoundedImageView-->
+                <!--android:id="@+id/estacionamientoImagen"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"/>-->
+
+            </FrameLayout >
+
+            <!--<ImageView-->
+            <!--android:layout_width="60dp"-->
+            <!--android:layout_height="60dp"-->
+            <!--android:layout_marginLeft="50dp"-->
+            <!--android:layout_gravity="center_vertical"-->
+            <!--app:srcCompat="@drawable/ic_profile"/>-->
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnMenu"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp" >
+
+                <TextView
+                    android:id="@+id/lblEstacionamientoNombre"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="20dp"
+                    android:maxLines="2"
+                    android:text="Estacionamiento"
+                    android:textColor="@android:color/white"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <!--View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="#22ffffff"
+                    app:layout_constraintBottom_toTopOf="@+id/rates" /-->
+
+                <!--LinearLayout
+                    android:id="@+id/rates"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    app:layout_constraintBottom_toTopOf="@+id/schedules" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tarifa: "
+                        android:textColor="@android:color/white"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/estacionamientoTarifa"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1 hora $20"
+                        android:textColor="@android:color/white"
+                        android:textSize="12dp" />
+
+                </LinearLayout -->
+
+                <!--LinearLayout
+                    android:id="@+id/schedules"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal"
+                    app:layout_constraintBottom_toBottomOf="parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Horario: "
+                        android:textColor="@android:color/white"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/estacionamientoHorario"
+                        android:layout_width="170dp"
+                        android:layout_height="wrap_content"
+                        android:text="7:00 - 18:00"
+                        android:textColor="@android:color/white"
+                        android:textSize="12dp" />
+
+                </LinearLayout -->
+
+            </androidx.constraintlayout.widget.ConstraintLayout >
+
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="bottom|right"
+                android:layout_margin="18dp"
+                android:visibility="gone"
+                app:srcCompat="@drawable/ic_add_circular_outlined_button" />
+        </RelativeLayout >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:background="@color/white"
+            android:visibility="gone" />
+
+    </FrameLayout >
+
+    <RelativeLayout
+        android:id="@+id/btn_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/transparent" >
+
+        <TextView
+            android:id="@+id/homeMessage"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/btnApparkameContainer"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="APROXÍMATE A LA ENTRADA DEL ESTACIONAMIENTO"
+            android:textColor="@color/white" />
+
+        <com.cdsautomatico.apparkame2.views.ApparkameLoadingView
+            android:id="@+id/apparkameLoading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:paddingTop="30dp" />
+
+        <FrameLayout
+            android:id="@+id/btnApparkameContainer"
+            android:layout_width="240dp"
+            android:layout_height="270dp"
+            android:layout_centerInParent="true" >
+
+            <FrameLayout
+                android:id="@+id/btnApparkame"
+                android:layout_width="220dp"
+                android:layout_height="220dp"
+                android:layout_gravity="top|center"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/boton_apparkame" >
+
+                <ImageView
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_logo_completo" />
+
+            </FrameLayout >
+
+        </FrameLayout >
+
+        <FrameLayout
+            android:id="@+id/timeTrackingPanel"
+            android:layout_width="240dp"
+            android:layout_height="270dp"
+            android:layout_centerInParent="true"
+            android:visibility="visible" >
+
+            <!--<FrameLayout-->
+            <!--android:layout_width="240dp"-->
+            <!--android:layout_height="240dp"-->
+            <!--android:layout_marginTop="30dp"-->
+            <!--android:layout_gravity="top|center"-->
+            <!--android:background="@drawable/circle_timer_clock"></FrameLayout>-->
+
+            <FrameLayout
+                android:layout_width="220dp"
+                android:layout_height="220dp"
+                android:layout_gravity="top|center"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/boton_apparkame" >
+
+                <TextView
+                    android:id="@+id/boletoTiempo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="40dp"
+                    android:gravity="center" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/boletoMoneda"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:text="$"
+                        android:textColor="@android:color/transparent"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/boletoTotal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="50sp" />
+
+                </LinearLayout >
+
+            </FrameLayout >
+
+            <com.cdsautomatico.apparkame2.views.ApparkameTimerView
+                android:id="@+id/boletoTimer"
+                android:layout_width="240dp"
+                android:layout_height="240dp"
+                android:layout_gravity="top|center"
+                android:layout_marginTop="30dp"
+                app:clockwise="true"
+                app:progress="0"
+                app:startAngle="270"
+                app:strokeColor="@android:color/transparent"
+                app:strokeShadowColor="#ddd"
+                app:strokeShadowWidth="3dp"
+                app:strokeWidth="4dp" />
+
+        </FrameLayout >
+
+        <TextView
+            android:id="@+id/comisiones"
+            android:text="Detalles de tarifa"
+            android:visibility="gone"
+            android:textColor="@color/white"
+            android:layout_marginTop="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/timeTrackingPanel"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout >
+
+    <LinearLayout
+        android:id="@+id/connectionError"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FEE0DF"
+        android:orientation="vertical"
+        android:padding="7dp"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:text="Sin conexión"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:text="por favor revisa tu conexión a internet"
+            android:textAlignment="center"
+            android:textSize="11dp" />
+
+    </LinearLayout >
+
+    <com.cdsautomatico.apparkame2.views.DialogoCarril
+        android:id="@+id/dialogoCarril"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.cdsautomatico.apparkame2.views.DialogoFormaPago
+        android:id="@+id/dialogFormaPago"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/showMap"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/estacionamientoInfo"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="12dp"
+        android:src="@android:drawable/ic_dialog_map"
+        android:tint="@color/colorPrimary"
+        android:visibility="gone"
+        tools:ignore="RtlHardcoded" />
+
+</RelativeLayout >

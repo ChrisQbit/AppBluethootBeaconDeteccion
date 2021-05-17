@@ -1,0 +1,75 @@
+<resources >
+    <string name="facebook_app_id" >386897905459655</string >
+    <string name="fb_login_protocol_scheme" >fb386897905459655</string >
+
+    <string name="app_name" >Botón</string >
+    <string name="title_activity_recuperar_contrasenia" >Restablecer Contraseña</string >
+    <string name="title_activity_perfil" >Editar Perfil</string >
+    <string name="title_activity_formas_pago" >Métodos de Pago</string >
+    <string name="title_activity_formas_pago_agregar" >Agregar Forma de Pago</string >
+    <string name="title_activity_pensiones" >Acceso VIP</string >
+
+    <string name="email" >Correo electrónico</string >
+    <string name="login" >Iniciar sesión</string >
+    <string name="forgot_password" >¿Olvidaste tu contraseña?</string >
+    <string name="error_msg" >Ocurrió un error inesperado, por favor revisa tu conexión a internet</string >
+    <string name="error_facebook" >Ocurrió un error al conectar con Facebook</string >
+    <string name="ok" >Aceptar</string >
+    <string name="cancel" >Cancelar</string >
+    <string name="change_password" >Cambiar Contraseña</string >
+    <string name="change_photo" >Cambiar Foto</string >
+    <string name="repeat_password" >Repetir Contraseña</string >
+    <string name="save" >Guardar</string >
+    <string name="title_bluetooth_not_enabled" >Bluetooth Desactivado</string >
+    <string name="enable_bluetooth" >Es necesario activar el servicio de bluetooth para acceder a un parking</string >
+    <string name="title_bluetooth_le_not_available" >Bluetooth no disponible</string >
+    <string name="sorry_bluetooth_not_supported" >Lo sentimos, tu disponitivo no soporta Bluetooth por lo tanto no podras acceder a un parking</string >
+
+    <string name="error_no_internet_verify_connection" >Sin conexión a internet. Favor de verificar la conexión y volver a intentarlo.</string >
+    <string name="retrofit_error_timeout" >Tiempo de espera excedido (%s)</string >
+    <string name="retrofit_error_unknow" >Error desconocido (%s)</string >
+    <string name="retrofit_error_body" >Error de cuerpo (%s)</string >
+
+    <string name="error_title" >Error</string >
+    <string name="ampliar_vigencia" >Ampliar vigencia</string >
+    <string name="parkingImg" >Estacionamiento</string >
+    <string name="parking" >Estacionamiento</string >
+    <string name="fechas" >01/01/2018 a 01/02/2018</string >
+    <string name="number_placeholder" >9999</string >
+    <string name="money_simbol" >$</string >
+    <string name="ampliacion_vigencia" >Tu fecha de vencimiento actual es : <b >%s</b >.\nAl ampliar tu vigencia, esta vencerá el: <b >%s</b ></string >
+    <string name="pagar" >Toca para pagar</string >
+    <string name="parameter_error" >Error al leer el parámetro.</string >
+    <string name="activate_lock" >Activar seguro</string >
+    <string name="channel_name" >Alarma anti-robo</string >
+    <string name="channel_description" >Alertas que genera el sistema anti robo de CDS.</string >
+    <string name="nombre" >Nombre</string >
+    <string name="email_address" >Correo Electrónico</string >
+    <string name="repetir_contrase_a" >Repetir Contraseña</string >
+    <string name="password" >Contraseña</string >
+    <string name="entry" >Entrada</string >
+    <string name="payment" >Pagos</string >
+    <string name="access_control" >Control de acceso</string >
+    <string name="entry_desc" >Ingresa facilmente\na estacionamientos sin\nnecesidad de utilizar boleto.</string >
+    <string name="payment_desc" >Paga el estacionamiento\nautomáticamente desde tu celular.</string >
+    <string name="access_control_desc" >Otorga accesos a cualquier\nentrada que necesites.</string >
+    <string name="skip" >SALTAR</string >
+    <string name="taxes" >Impuestos</string >
+    <string name="commissions" >Comisiones</string >
+    <string name="percent" >Porcentaje</string >
+    <string name="parking_fare" >Tarifa de estacionamiento</string >
+    <string name="total" >Total</string >
+    <string name="fare_details" >Desgloce de tarifa</string >
+    <string name="no_payment_method_yet" >Aún no tienes formas de pago</string >
+    <string name="add_payment_method" >Agregar forma de pago</string >
+    <string name="texto_de_prueba" >Texto de prueba</string >
+    <string name="payment_method" >método de pago</string >
+    <string name="card_place_holder" >**** 1234 Visa</string >
+    <string name="money_place_holder" >$999</string >
+    <string name="payments_made" >Pagos realizados</string >
+    <string name="date_place_holder" >2020/02/02 12:02:00</string >
+    <string name="nothing_to_show" >Nada para mostrar</string >
+    <string name="payment_history" >Historial de pagos</string >
+    <string name="touch_to_drop_down" >Touch to drop down</string >
+    <string name="title_activity_payment_history" >Historial de pagos</string >
+</resources >

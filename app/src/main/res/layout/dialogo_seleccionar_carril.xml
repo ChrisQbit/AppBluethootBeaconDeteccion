@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/modal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/dialogBlackModal"/>
+
+    <LinearLayout
+        android:id="@+id/dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:padding="30dp"
+        android:gravity="center_horizontal"
+        android:background="@color/winBackground">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:text="¿En que carril te encuentras?"/>
+
+
+        <RadioGroup
+            android:id="@+id/radioGroupTerminales"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="right"
+            android:inputType="text"
+            android:orientation="vertical" >
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnConfirmar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:width="150dp"
+            android:text="Confirmar"
+            style="@style/BtnGreen"/>
+
+    </LinearLayout>
+
+</FrameLayout>
