@@ -973,23 +973,19 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 
 	  private void seleccionarEntrada ()
 	  {
-		    List<Terminal> availableTerminals = parkingViewModel.getAvailableTerminals().getValue();
-		    if (availableTerminals == null)
+	  		List<Terminal> availableTerminals = parkingViewModel.getAvailableTerminals().getValue();
+		  Terminal terminalEntrada = availableTerminals.get(0);
+		  if (terminalEntrada == null && availableTerminals == null)
 		    {
-				 Toast.makeText(getActivity(), "No hay terminales cercanas", Toast.LENGTH_SHORT).show();
+				 Toast.makeText(getActivity(), "No hay terminal de entrada cercana", Toast.LENGTH_SHORT).show();
 				 return;
 		    }
-		    if (availableTerminals.size() == 1)
+		  if (availableTerminals.size() >= 1 && terminalEntrada.getTerminalType().equals(TerminalType.Entrada))
 		    {
-				 Terminal selectedTerminal = availableTerminals.get(0);
-				 if (selectedTerminal.getTerminalType().equals(TerminalType.Salida))
-					   salirEstacionamiento((int) selectedTerminal.getId());
-				 else if (selectedTerminal.getTerminalType().equals(TerminalType.Entrada))
-					   ingresarEstacionamiento((int) selectedTerminal.getId());
+				ingresarEstacionamiento((int) terminalEntrada.getId());
 				 return;
 		    }
-
-		    dialogoCarril.setTerminales(availableTerminals);
+		  /*  dialogoCarril.setTerminales(availableTerminals);
 
 		    List<Terminal> entries = new ArrayList<>();
 		    for (int i = 0; i < availableTerminals.size(); i++)
@@ -1017,7 +1013,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 					   ingresarEstacionamiento((int) selectedTerminal.getId());
 		    });
 
-		    dialogoCarril.show();
+		    dialogoCarril.show();*/
 	  }
 
 	  private void ingresarEstacionamiento (Integer terminalEntradaId)
@@ -1094,21 +1090,20 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 	  private void seleccionarSalida ()
 	  {
 		    List<Terminal> availableTerminals = parkingViewModel.getAvailableTerminals().getValue();
-		    if (availableTerminals == null)
+		    Terminal terminalSalida = availableTerminals.get(0);
+		    if (availableTerminals == null && terminalSalida == null)
 		    {
-				 Toast.makeText(getActivity(), "No hay terminales cercanas", Toast.LENGTH_SHORT).show();
+				 Toast.makeText(getActivity(), "No hay terminal de salida cercana", Toast.LENGTH_SHORT).show();
 				 return;
 		    }
-		    if (availableTerminals.size() == 1)
+		    if (terminalSalida.getTerminalType().equals(TerminalType.Salida) && availableTerminals.size() >= 1)
 		    {
 				 Terminal selectedTerminal = availableTerminals.get(0);
 				 if (selectedTerminal.getTerminalType().equals(TerminalType.Salida) || selectedTerminal.isAntiPassBack())
 					   salirEstacionamiento((int) selectedTerminal.getId());
-				 else if (selectedTerminal.getTerminalType().equals(TerminalType.Entrada))
-					   ingresarEstacionamiento((int) selectedTerminal.getId());
 				 return;
 		    }
-		    dialogoCarril.setTerminales(availableTerminals);
+		    /*dialogoCarril.setTerminales(availableTerminals);
 		    List<Terminal> exits = new ArrayList<>();
 		    for (int i = 0; i < availableTerminals.size(); i++)
 		    {
@@ -1135,7 +1130,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 					   ingresarEstacionamiento((int) selectedTerminal.getId());
 		    });
 
-		    dialogoCarril.show();
+		    dialogoCarril.show();*/
 	  }
 
 	  private void salirEstacionamiento (Integer terminalId)
