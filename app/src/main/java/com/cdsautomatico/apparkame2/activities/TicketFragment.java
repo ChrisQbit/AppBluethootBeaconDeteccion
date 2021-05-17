@@ -292,7 +292,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 					   spannableString = showTapToOpen();
 				 }
 		    }
-		    else if (ticketViewModel.getTicket().getValue() != null && ticketViewModel.getTicket().getValue().getSegundosPendientes() > 0 && ((ticketViewModel.getTicket().getValue().getPensionId() != null && ticketViewModel.getTicket().getValue().getPensionId() == 0) || ticketViewModel.getTicket().getValue().getPensionId() == null))
+		    else if (ticketViewModel.getTicket().getValue() != null && ticketViewModel.getTicket().getValue().getActivo() == 1 && ticketViewModel.getTicket().getValue().getSegundosPendientes() > 0 && ((ticketViewModel.getTicket().getValue().getPensionId() != null && ticketViewModel.getTicket().getValue().getPensionId() == 0) || ticketViewModel.getTicket().getValue().getPensionId() == null) )
 		    {
 				 boletoTimer.setVisibility(View.VISIBLE);
 				 spannableString = showTapToPay();
@@ -306,6 +306,10 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 				 }
 				 else
 				 {
+					 if (availableTerminals.get(0).getTerminalType().equals(TerminalType.Salida) && availableTerminals != null){
+						 tvTerminal.setVisibility(View.VISIBLE);
+						 tvTerminal.setText(availableTerminals.get(0).getName());
+					 }
 					   spannableString = showTapToExit();
 				 }
 		    }
