@@ -48,12 +48,13 @@
     <string name="repetir_contrase_a" >Repetir Contraseña</string >
     <string name="password" >Contraseña</string >
     <string name="entry" >Entrada</string >
-    <string name="payment" >Pagos</string >
-    <string name="access_control" >Control de acceso</string >
+    <string name="payment" >Registro de Tarjeta</string >
+    <string name="access_control" >Pago</string >
+    <string name="exit">Salida</string>
     <string name="entry_desc" >Aproximate a la entrada de acceso y pulsa el ícono de Botón</string >
     <string name="payment_desc" >Registra tu metodo de pago.</string >
     <string name="access_control_desc" >Paga automaticamente desde tu celular</string >
-    <string name="exit_desc">Una vez àgada tu estancia acércate a la salida y pulsa el ícono de botón</string>
+    <string name="exit_desc">Una vez pagada tu estancia acércate a la salida y pulsa el ícono de botón</string>
     <string name="skip" >SALTAR</string >
     <string name="taxes" >Impuestos</string >
     <string name="commissions" >Comisiones</string >

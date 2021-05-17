@@ -8,7 +8,7 @@ public enum OnboardingPages
 	  PAYMENT(R.layout.fgmt_onboarding_2),
 	  ACCESS_CONTROL(R.layout.fgmt_onboarding_3),
 	  SALIDA(R.layout.fgmt_onboarding_4);
-	  
+
 
 	  private int mLayoutResId;
 
