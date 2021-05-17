@@ -211,7 +211,20 @@
             android:layout_centerInParent="true"
             android:gravity="center"
             android:text="APROXÍMATE A LA ENTRADA DEL ESTACIONAMIENTO"
-            android:textColor="@color/white" />
+            android:textColor="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/terminalName"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/homeMessage"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="Entrada/Salida"
+            android:textSize="20sp"
+            android:textColor="@color/colorAccentDark"
+            android:visibility="visible"/>
 
         <com.cdsautomatico.apparkame2.views.ApparkameLoadingView
             android:id="@+id/apparkameLoading"

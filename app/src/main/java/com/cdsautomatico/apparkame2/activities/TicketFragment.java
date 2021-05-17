@@ -87,6 +87,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 	  private TextView boletoTotal;
 	  private TextView boletoMoneda;
 	  private TextView tvComisiones;
+	  private TextView tvTerminal;
 	  //private View btnApparkame;
 	  TextView txtHomeMessage;
 	  private ApparkameTimerView boletoTimer;
@@ -124,6 +125,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 		    timeTrackingPanel = rootView.findViewById(R.id.timeTrackingPanel);
 		    estacionamientoInfo = rootView.findViewById(R.id.estacionamientoInfo);
 		    estacionamientoInfo.setVisibility(View.INVISIBLE);
+
 //		    estacionamientoInfoBackColor = rootView.findViewById(R.id.estacionamientoInfoBackColor);
 		    ivParkingImage = rootView.findViewById(R.id.parkingImg);
 
@@ -147,6 +149,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 		    tvComisiones = rootView.findViewById(R.id.comisiones);
 		    apparkameLoadingView = rootView.findViewById(R.id.apparkameLoading);
 		    connectionError = rootView.findViewById(R.id.connectionError);
+		    tvTerminal = rootView.findViewById(R.id.terminalName);
 
 		    if (getActivity() == null) return null;
 		    btnApparkame.setOnClickListener(this);
@@ -270,10 +273,18 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 				 }
 				 else if (parkingViewModel.getEntryTerminals().size() > 0 && (parkingViewModel.getExitTerminals().size() == 0 || parkingViewModel.hasAntiPassPassBack()))
 				 {
+				 	if (availableTerminals.get(0).getTerminalType().equals(TerminalType.Entrada) && availableTerminals != null){
+						tvTerminal.setVisibility(View.VISIBLE);
+						tvTerminal.setText(availableTerminals.get(0).getName());
+					}
 					   spannableString = showTapToEnter();
 				 }
 				 else if (parkingViewModel.getExitTerminals().size() > 0 && (parkingViewModel.hasAntiPassPassBack() || parkingViewModel.getEntryTerminals().size() == 0))
 				 {
+					 if (availableTerminals.get(0).getTerminalType().equals(TerminalType.Salida) && availableTerminals != null){
+					 	tvTerminal.setVisibility(View.VISIBLE);
+					 	tvTerminal.setText(availableTerminals.get(0).getName());
+					 }
 					   spannableString = showTapToExit();
 				 }
 				 else
@@ -980,7 +991,7 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 				 Toast.makeText(getActivity(), "No hay terminal de entrada cercana", Toast.LENGTH_SHORT).show();
 				 return;
 		    }
-		  if (availableTerminals.size() >= 1 && terminalEntrada.getTerminalType().equals(TerminalType.Entrada))
+		  if ( availableTerminals.size() >= 1 && terminalEntrada.getTerminalType().equals(TerminalType.Entrada))
 		    {
 				ingresarEstacionamiento((int) terminalEntrada.getId());
 				 return;
