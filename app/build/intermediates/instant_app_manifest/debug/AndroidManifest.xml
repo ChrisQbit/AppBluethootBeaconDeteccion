@@ -28,14 +28,14 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
-        android:name="android.support.multidex.MultiDexApplication"
+        android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
-        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_logo"
         android:label="@string/app_name"
         android:networkSecurityConfig="@xml/network_security_config"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_logo"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme"
@@ -114,7 +114,7 @@
         <service android:name="com.cdsautomatico.apparkame2.dataSource.SocketConsumer" />
 
         <provider
-            android:name="android.support.v4.content.FileProvider"
+            android:name="androidx.core.content.FileProvider"
             android:authorities="com.mvc.imagepicker.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
@@ -258,15 +258,15 @@
         </service>
 
         <provider
-            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.cdsautomatico.apparkame2.lifecycle-trojan"
-            android:exported="false"
-            android:multiprocess="true" />
-        <provider
             android:name="com.crashlytics.android.CrashlyticsInitProvider"
             android:authorities="com.cdsautomatico.apparkame2.crashlyticsinitprovider"
             android:exported="false"
             android:initOrder="90" />
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.cdsautomatico.apparkame2.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

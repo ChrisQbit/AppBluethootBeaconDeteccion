@@ -633,15 +633,16 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="access_control">Control de acceso</string>
-    <string name="access_control_desc">Otorga accesos a cualquier\nentrada que necesites.</string>
+    <string name="access_control">Pago</string>
+    <string name="access_control_desc">Paga automaticamente desde tu celular</string>
     <string name="activate_lock">Activar seguro</string>
     <string name="add_payment_method">Agregar forma de pago</string>
     <string name="ampliacion_vigencia">Tu fecha de vencimiento actual es : <b>%s</b>.\nAl ampliar tu vigencia, esta vencerá el: <b>%s</b></string>
     <string name="ampliar_vigencia">Ampliar vigencia</string>
     <string name="app_name">Botón</string>
-    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">Cancelar</string>
     <string name="card_place_holder">**** 1234 Visa</string>
     <string name="change_password">Cambiar Contraseña</string>
@@ -650,7 +651,7 @@
     <string name="channel_name">Alarma anti-robo</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">e62c713b-bef2-4d1f-8347-ec62fe428890</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">8fcc7711-512e-4f59-81cc-c43ea11ed495</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -699,13 +700,15 @@
     <string name="email_address">Correo Electrónico</string>
     <string name="enable_bluetooth">Es necesario activar el servicio de bluetooth para acceder a un parking</string>
     <string name="entry">Entrada</string>
-    <string name="entry_desc">Ingresa facilmente\na estacionamientos sin\nnecesidad de utilizar boleto.</string>
+    <string name="entry_desc">Aproximate a la entrada de acceso y pulsa el ícono de Botón</string>
     <string name="error_facebook">Ocurrió un error al conectar con Facebook</string>
     <string name="error_msg">Ocurrió un error inesperado, por favor revisa tu conexión a internet</string>
     <string name="error_no_internet_verify_connection">Sin conexión a internet. Favor de verificar la conexión y volver a intentarlo.</string>
     <string name="error_title">Error</string>
-    <string name="fab_transformation_scrim_behavior" translatable="false">android.support.design.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior" translatable="false">android.support.design.transformation.FabTransformationSheetBehavior</string>
+    <string name="exit">Salida</string>
+    <string name="exit_desc">Una vez pagada tu estancia acércate a la salida y pulsa el ícono de botón</string>
+    <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook_app_id">386897905459655</string>
     <string name="fare_details">Desgloce de tarifa</string>
     <string name="fb_login_protocol_scheme">fb386897905459655</string>
@@ -717,7 +720,7 @@
     <string name="google_app_id" translatable="false">1:305931828918:android:c4558dd6133a3e74</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYXYQgJ9toKA6fFJmOxa3PW92e4TTem_0</string>
     <string name="google_storage_bucket" translatable="false">apparkame-android-a9c58.appspot.com</string>
-    <string name="hide_bottom_view_on_scroll_behavior" translatable="false">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="login">Iniciar sesión</string>
     <string name="money_place_holder">$999</string>
     <string name="money_simbol">$</string>
@@ -738,8 +741,8 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="payment">Pagos</string>
-    <string name="payment_desc">Paga el estacionamiento\nautomáticamente desde tu celular.</string>
+    <string name="payment">Registro de Tarjeta</string>
+    <string name="payment_desc">Registra tu metodo de pago.</string>
     <string name="payment_history">Historial de pagos</string>
     <string name="payment_method">método de pago</string>
     <string name="payments_made">Pagos realizados</string>
@@ -1172,7 +1175,7 @@
     <style name="Base.ThemeOverlay.MaterialComponents.Dialog" parent="Base.V14.ThemeOverlay.MaterialComponents.Dialog"/>
     <style name="Base.ThemeOverlay.MaterialComponents.Dialog.Alert" parent="Base.V14.ThemeOverlay.MaterialComponents.Dialog.Alert"/>
     <style name="Base.V14.Theme.MaterialComponents" parent="Base.V14.Theme.MaterialComponents.Bridge">
-    <item name="viewInflaterClass">android.support.design.theme.MaterialComponentsViewInflater</item>
+    <item name="viewInflaterClass">com.google.android.material.theme.MaterialComponentsViewInflater</item>
 
     
     <item name="colorPrimary">@color/design_default_color_primary</item>
@@ -1222,7 +1225,7 @@
     <item name="textAppearanceOverline">@style/TextAppearance.MaterialComponents.Overline</item>
   </style>
     <style name="Base.V14.Theme.MaterialComponents.Dialog" parent="Platform.MaterialComponents.Dialog">
-    <item name="viewInflaterClass">android.support.design.theme.MaterialComponentsViewInflater</item>
+    <item name="viewInflaterClass">com.google.android.material.theme.MaterialComponentsViewInflater</item>
 
     
     <item name="colorPrimary">@color/design_default_color_primary</item>
@@ -1268,7 +1271,7 @@
     <item name="textAppearanceOverline">@style/TextAppearance.MaterialComponents.Overline</item>
   </style>
     <style name="Base.V14.Theme.MaterialComponents.Light" parent="Base.V14.Theme.MaterialComponents.Light.Bridge">
-    <item name="viewInflaterClass">android.support.design.theme.MaterialComponentsViewInflater</item>
+    <item name="viewInflaterClass">com.google.android.material.theme.MaterialComponentsViewInflater</item>
 
     
     <item name="colorPrimary">@color/design_default_color_primary</item>
@@ -1338,7 +1341,7 @@
     <item name="textAppearanceOverline">@style/TextAppearance.MaterialComponents.Overline</item>
   </style>
     <style name="Base.V14.Theme.MaterialComponents.Light.Dialog" parent="Platform.MaterialComponents.Light.Dialog">
-    <item name="viewInflaterClass">android.support.design.theme.MaterialComponentsViewInflater</item>
+    <item name="viewInflaterClass">com.google.android.material.theme.MaterialComponentsViewInflater</item>
 
     
     <item name="colorPrimary">@color/design_default_color_primary</item>
@@ -1392,7 +1395,7 @@
     <item name="buttonBarButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
   </style>
     <style name="Base.V7.Theme.AppCompat" parent="Platform.AppCompat">
-        <item name="viewInflaterClass">android.support.v7.app.AppCompatViewInflater</item>
+        <item name="viewInflaterClass">androidx.appcompat.app.AppCompatViewInflater</item>
         <item name="windowNoTitle">false</item>
         <item name="windowActionBar">true</item>
         <item name="windowActionBarOverlay">false</item>
@@ -1585,7 +1588,7 @@
         <item name="android:windowCloseOnTouchOutside">true</item>
     </style>
     <style name="Base.V7.Theme.AppCompat.Light" parent="Platform.AppCompat.Light">
-        <item name="viewInflaterClass">android.support.v7.app.AppCompatViewInflater</item>
+        <item name="viewInflaterClass">androidx.appcompat.app.AppCompatViewInflater</item>
 
         <item name="windowNoTitle">false</item>
         <item name="windowActionBar">true</item>

@@ -1195,10 +1195,16 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_onboarding_1
+drawable ic_onboarding_1_background
+drawable ic_onboarding_1_foreground
 drawable ic_onboarding_2
 drawable ic_onboarding_3
 drawable ic_only_b
 drawable ic_profile
+drawable ic_recurso_1
+drawable ic_recurso_2
+drawable ic_recurso_3
+drawable ic_recurso_4
 drawable ic_visa
 drawable ic_warning
 drawable light_gray_bottom_border
@@ -1545,8 +1551,10 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tarjeta
 id taxes
+id terminalName
 id text
 id text2
+id textHomeOnboarding
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -1681,6 +1689,7 @@ layout dialogo_seleccionar_carril
 layout fgmt_onboarding_1
 layout fgmt_onboarding_2
 layout fgmt_onboarding_3
+layout fgmt_onboarding_4
 layout fragment_ticket
 layout history_item_list
 layout history_item_list_second
@@ -1718,6 +1727,8 @@ mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 mipmap ic_logo
 mipmap ic_logo_round
+mipmap ic_onboarding_1
+mipmap ic_onboarding_1_foreground
 raw login_background
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -1766,6 +1777,7 @@ string ampliacion_vigencia
 string ampliar_vigencia
 string app_name
 string appbar_scrolling_view_behavior
+string bienvenido
 string bottom_sheet_behavior
 string cancel
 string card_place_holder
@@ -1829,6 +1841,8 @@ string error_facebook
 string error_msg
 string error_no_internet_verify_connection
 string error_title
+string exit
+string exit_desc
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string facebook_app_id
