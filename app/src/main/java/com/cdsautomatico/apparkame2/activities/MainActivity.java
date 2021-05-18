@@ -150,7 +150,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 		    fgmtTicketFragment = ((TicketFragment) getSupportFragmentManager().findFragmentByTag("TicketFragment"));
 		    if (fgmtTicketFragment == null)
 		    {
-				 Toast.makeText(this, "Fragmento no se econtró", Toast.LENGTH_SHORT).show();
+				 Toast.makeText(this, "Fragmento no se encontró", Toast.LENGTH_SHORT).show();
 				 finish();
 				 return;
 		    }
