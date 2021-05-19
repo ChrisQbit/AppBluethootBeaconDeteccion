@@ -9,7 +9,7 @@ android {
         targetSdkVersion 28
         multiDexEnabled true
         versionCode 24
-        versionName "2.1.5"
+        versionName "3.3.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
