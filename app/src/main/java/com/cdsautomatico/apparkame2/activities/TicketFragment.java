@@ -989,11 +989,19 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 	  private void seleccionarEntrada ()
 	  {
 	  		List<Terminal> availableTerminals = parkingViewModel.getAvailableTerminals().getValue();
-		  Terminal terminalEntrada = availableTerminals.get(0);
-		  if (terminalEntrada == null && availableTerminals == null)
+		  //Terminal terminalEntrada = availableTerminals.get(0);
+		  Terminal terminalEntrada;
+		  /*if (terminalEntrada == null && availableTerminals == null)
 		    {
 				 Toast.makeText(getActivity(), "No hay terminal de entrada cercana", Toast.LENGTH_SHORT).show();
 				 return;
+		    }*/
+		    if (availableTerminals == null || availableTerminals.isEmpty())
+		    {
+				 Toast.makeText(getActivity(), "No hay una terminal de entrada cercana", Toast.LENGTH_SHORT).show();
+				 return;
+		    }else{
+				 terminalEntrada = availableTerminals.get(0);
 		    }
 		  if ( availableTerminals.size() >= 1 && terminalEntrada.getTerminalType().equals(TerminalType.Entrada))
 		    {
@@ -1105,11 +1113,19 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 	  private void seleccionarSalida ()
 	  {
 		    List<Terminal> availableTerminals = parkingViewModel.getAvailableTerminals().getValue();
-		    Terminal terminalSalida = availableTerminals.get(0);
-		    if (availableTerminals == null && terminalSalida == null)
+		    //Terminal terminalSalida = availableTerminals.get(0);
+		    Terminal terminalSalida;
+		    /*if (availableTerminals == null && terminalSalida == null)
 		    {
 				 Toast.makeText(getActivity(), "No hay terminal de salida cercana", Toast.LENGTH_SHORT).show();
 				 return;
+		    }*/
+		    if (availableTerminals == null || availableTerminals.isEmpty())
+		    {
+				 Toast.makeText(getActivity(), "No hay terminal de salida cercana", Toast.LENGTH_SHORT).show();
+				 return;
+		    }else{
+				 terminalSalida=availableTerminals.get(0);
 		    }
 		    if (terminalSalida.getTerminalType().equals(TerminalType.Salida) && availableTerminals.size() >= 1)
 		    {

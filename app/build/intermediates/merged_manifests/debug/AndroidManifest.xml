@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.cdsautomatico.apparkame2"
     android:versionCode="24"
-    android:versionName="2.1.5" >
+    android:versionName="3.3.3" >
 
     <uses-sdk
         android:minSdkVersion="19"

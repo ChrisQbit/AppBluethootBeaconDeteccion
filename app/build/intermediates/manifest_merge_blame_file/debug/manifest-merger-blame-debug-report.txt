@@ -2,250 +2,250 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.cdsautomatico.apparkame2"
 4    android:versionCode="24"
-5    android:versionName="2.1.5" >
+5    android:versionName="3.3.3" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml
+8-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml
+9-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CALL_PHONE" />
-11-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:6:5-69
-11-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:6:22-66
+11-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:6:5-69
+11-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:6:22-66
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:7:5-67
-12-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:7:22-64
+12-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:7:22-64
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:8:5-81
-13-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:8:22-78
+13-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:8:22-78
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:9:5-79
-14-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:9:22-76
+14-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:9:22-76
 15    <uses-permission android:name="android.permission.VIBRATE" />
-15-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:10:5-66
-15-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:10:22-63
+15-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:10:5-66
+15-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:10:22-63
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
-16-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:22-76
+16-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:24:5-79
+16-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:24:22-76
 17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:25:5-68
-17-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:25:22-65
+17-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:25:5-68
+17-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:25:22-65
 18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-18-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
-18-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
+18-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:26:22-107
 19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-19-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:26:5-82
-19-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:26:22-79
+19-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:26:5-82
+19-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:26:22-79
 20    <uses-permission
-20-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:11:5-13:36
+20-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:11:5-13:36
 21        android:name="android.permission.BLUETOOTH"
-21-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:12:9-52
+21-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:12:9-52
 22        android:required="false" />
-22-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:13:9-33
+22-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:13:9-33
 23    <uses-permission
-23-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:14:5-16:36
+23-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:14:5-16:36
 24        android:name="android.permission.BLUETOOTH_ADMIN"
-24-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:15:9-58
+24-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:15:9-58
 25        android:required="false" />
-25-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:16:9-33
+25-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:16:9-33
 26    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-26-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:17:5-81
-26-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:17:22-78
+26-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:17:5-81
+26-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:17:22-78
 27    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-27-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:18:5-81
-27-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:18:22-78
+27-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:18:5-81
+27-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:18:22-78
 28
 29    <application
-29-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:12:5-103:20
+29-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:12:5-103:20
 30        android:name="androidx.multidex.MultiDexApplication"
 31        android:allowBackup="true"
-31-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:13:9-35
+31-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:13:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-32-->[androidx.core:core:1.0.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/1dec45bf5dcd1baf46e0774492702666/core-1.0.0/AndroidManifest.xml:22:18-86
+32-->[androidx.core:core:1.0.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\1dec45bf5dcd1baf46e0774492702666\core-1.0.0\AndroidManifest.xml:22:18-86
 33        android:debuggable="true"
 34        android:icon="@mipmap/ic_logo"
-34-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:14:9-39
+34-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:14:9-39
 35        android:label="@string/app_name"
-35-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:15:9-41
+35-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:15:9-41
 36        android:networkSecurityConfig="@xml/network_security_config"
-36-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:16:9-69
+36-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:16:9-69
 37        android:roundIcon="@mipmap/ic_logo"
-37-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:17:9-44
+37-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:17:9-44
 38        android:supportsRtl="true"
-38-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:18:9-35
+38-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:18:9-35
 39        android:testOnly="true"
 40        android:theme="@style/AppTheme"
-40-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:19:9-40
+40-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:19:9-40
 41        android:usesCleartextTraffic="true" >
-41-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:20:9-44
+41-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:20:9-44
 42        <uses-library
-42-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:22:9-87
+42-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:22:9-87
 43            android:name="org.apache.http.legacy"
-43-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:22:23-60
+43-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:22:23-60
 44            android:required="false" />
-44-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:22:61-85
+44-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:22:61-85
 45
 46        <meta-data
-46-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:24:9-26:55
+46-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:24:9-26:55
 47            android:name="com.facebook.sdk.ApplicationId"
-47-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:25:13-58
+47-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:25:13-58
 48            android:value="@string/facebook_app_id" />
-48-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:26:13-52
+48-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:26:13-52
 49
 50        <activity
-50-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:28:9-36:21
+50-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:28:9-36:21
 51            android:name="com.cdsautomatico.apparkame2.activities.MainActivity"
-51-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:29:13-52
+51-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:29:13-52
 52            android:screenOrientation="portrait" >
-52-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:30:13-49
+52-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:30:13-49
 53            <intent-filter>
-53-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:31:13-35:30
+53-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:31:13-35:30
 54                <action android:name="android.intent.action.MAIN" />
-54-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:32:17-69
-54-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:32:25-66
+54-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:32:17-69
+54-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:32:25-66
 55
 56                <category android:name="android.intent.category.LAUNCHER" />
-56-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:34:17-77
-56-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:34:27-74
+56-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:34:17-77
+56-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:34:27-74
 57            </intent-filter>
 58        </activity>
 59        <activity
-59-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:37:9-40:57
+59-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:37:9-40:57
 60            android:name="com.cdsautomatico.apparkame2.activities.LoginActivity"
-60-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:38:13-53
+60-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:38:13-53
 61            android:screenOrientation="portrait"
-61-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:39:13-49
+61-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:39:13-49
 62            android:windowSoftInputMode="stateHidden" />
-62-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:40:13-54
+62-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:40:13-54
 63        <activity
-63-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:41:9-45:57
+63-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:41:9-45:57
 64            android:name="com.cdsautomatico.apparkame2.activities.RecuperarContraseniaActivity"
-64-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:42:13-68
+64-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:42:13-68
 65            android:label="@string/title_activity_recuperar_contrasenia"
-65-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:43:13-73
+65-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:43:13-73
 66            android:screenOrientation="portrait"
-66-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:44:13-49
+66-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:44:13-49
 67            android:windowSoftInputMode="stateHidden" />
-67-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:45:13-54
+67-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:45:13-54
 68        <activity
-68-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:46:9-50:57
+68-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:46:9-50:57
 69            android:name="com.cdsautomatico.apparkame2.activities.PerfilActivity"
-69-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:47:13-54
+69-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:47:13-54
 70            android:label="@string/title_activity_perfil"
-70-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:48:13-58
+70-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:48:13-58
 71            android:screenOrientation="portrait"
-71-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:49:13-49
+71-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:49:13-49
 72            android:windowSoftInputMode="stateHidden" />
-72-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:50:13-54
+72-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:50:13-54
 73        <activity
-73-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:51:9-55:57
+73-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:51:9-55:57
 74            android:name="com.cdsautomatico.apparkame2.activities.FormasPagoActivity"
-74-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:52:13-58
+74-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:52:13-58
 75            android:label="@string/title_activity_formas_pago"
-75-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:53:13-63
+75-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:53:13-63
 76            android:screenOrientation="portrait"
-76-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:54:13-49
+76-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:54:13-49
 77            android:windowSoftInputMode="stateHidden" />
-77-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:55:13-54
+77-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:55:13-54
 78        <activity
-78-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:56:9-60:57
+78-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:56:9-60:57
 79            android:name="com.cdsautomatico.apparkame2.activities.FormasPagoAgregarActivity"
-79-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:57:13-65
+79-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:57:13-65
 80            android:label="@string/title_activity_formas_pago_agregar"
-80-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:58:13-71
+80-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:58:13-71
 81            android:screenOrientation="portrait"
-81-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:59:13-49
+81-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:59:13-49
 82            android:windowSoftInputMode="stateHidden" />
-82-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:60:13-54
+82-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:60:13-54
 83        <activity
-83-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:61:9-65:57
+83-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:61:9-65:57
 84            android:name="com.cdsautomatico.apparkame2.activities.PensionesActivity"
-84-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:62:13-57
+84-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:62:13-57
 85            android:label="@string/title_activity_pensiones"
-85-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:63:13-61
+85-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:63:13-61
 86            android:screenOrientation="portrait"
-86-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:64:13-49
+86-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:64:13-49
 87            android:windowSoftInputMode="stateHidden" />
-87-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:65:13-54
+87-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:65:13-54
 88        <activity
-88-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:66:9-69:48
+88-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:66:9-69:48
 89            android:name="com.facebook.FacebookActivity"
-89-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:67:13-57
+89-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:67:13-57
 90            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-90-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:68:13-96
+90-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:68:13-96
 91            android:label="@string/app_name"
-91-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:69:13-45
+91-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:69:13-45
 92            android:theme="@style/com_facebook_activity_theme" />
-92-->[com.facebook.android:facebook-common:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/1c607a10241ec95b4fc778534c4f6663/jetified-facebook-common-4.40.0/AndroidManifest.xml:32:13-63
+92-->[com.facebook.android:facebook-common:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\d81ebf15616a4a396f0f93043384d769\jetified-facebook-common-4.40.0\AndroidManifest.xml:32:13-63
 93        <activity
-93-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:70:9-81:21
+93-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:70:9-81:21
 94            android:name="com.facebook.CustomTabActivity"
-94-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:71:13-58
+94-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:71:13-58
 95            android:exported="true" >
-95-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:72:13-36
+95-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:72:13-36
 96            <intent-filter>
-96-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:73:13-80:30
+96-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:73:13-80:30
 97                <action android:name="android.intent.action.VIEW" />
-97-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:74:17-69
-97-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:74:25-66
+97-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:74:17-69
+97-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:74:25-66
 98
 99                <category android:name="android.intent.category.DEFAULT" />
-99-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:76:17-76
-99-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:76:27-73
+99-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:76:17-76
+99-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:76:27-73
 100                <category android:name="android.intent.category.BROWSABLE" />
-100-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:77:17-78
-100-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:77:27-75
+100-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:77:17-78
+100-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:77:27-75
 101
 102                <data android:scheme="@string/fb_login_protocol_scheme" />
-102-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:79:17-75
-102-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:79:23-72
+102-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:79:17-75
+102-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:79:23-72
 103            </intent-filter>
 104        </activity>
 105        <activity android:name="com.cdsautomatico.apparkame2.activities.MessageActivity" />
-105-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:82:9-64
-105-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:82:19-61
+105-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:82:9-64
+105-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:82:19-61
 106        <activity
-106-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:83:9-85:55
+106-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:83:9-85:55
 107            android:name="com.cdsautomatico.apparkame2.activities.HistoryActivity"
-107-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:84:13-55
+107-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:84:13-55
 108            android:label="@string/payment_history" />
-108-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:85:13-52
+108-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:85:13-52
 109        <activity android:name="com.cdsautomatico.apparkame2.activities.OnboardingActivity" />
-109-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:86:9-67
-109-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:86:19-64
+109-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:86:9-67
+109-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:86:19-64
 110        <activity android:name="com.cdsautomatico.apparkame2.activities.NoMapa" />
-110-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:87:9-55
-110-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:87:19-52
+110-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:87:9-55
+110-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:87:19-52
 111        <activity android:name="com.cdsautomatico.apparkame2.activities.ExtendValidityActivity" />
-111-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:88:9-71
-111-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:88:19-68
+111-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:88:9-71
+111-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:88:19-68
 112
 113        <service android:name="com.cdsautomatico.apparkame2.dataSource.SocketConsumer" />
-113-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:90:9-62
-113-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:90:18-59
+113-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:90:9-62
+113-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:90:18-59
 114
 115        <provider
-115-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:92:9-102:21
+115-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:92:9-102:21
 116            android:name="androidx.core.content.FileProvider"
-116-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:93:13-62
+116-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:93:13-62
 117            android:authorities="com.mvc.imagepicker.provider"
-117-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:94:13-63
+117-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:94:13-63
 118            android:exported="false"
-118-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:95:13-37
+118-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:95:13-37
 119            android:grantUriPermissions="true" >
-119-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:96:13-47
+119-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:96:13-47
 120            <meta-data
-120-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:98:13-101:52
+120-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:98:13-101:52
 121                android:name="android.support.FILE_PROVIDER_PATHS"
-121-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:99:17-67
+121-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:99:17-67
 122                android:resource="@xml/provider_paths" />
-122-->/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/AndroidManifest.xml:100:17-55
+122-->C:\Users\Desarrollo\Documents\Corza\Android\Op_ApparkameAndroid\app\src\main\AndroidManifest.xml:100:17-55
 123        </provider>
 124
 125        <activity android:name="com.facebook.CustomTabMainActivity" />
-125-->[com.facebook.android:facebook-common:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/1c607a10241ec95b4fc778534c4f6663/jetified-facebook-common-4.40.0/AndroidManifest.xml:33:9-71
-125-->[com.facebook.android:facebook-common:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/1c607a10241ec95b4fc778534c4f6663/jetified-facebook-common-4.40.0/AndroidManifest.xml:33:19-68
+125-->[com.facebook.android:facebook-common:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\d81ebf15616a4a396f0f93043384d769\jetified-facebook-common-4.40.0\AndroidManifest.xml:33:9-71
+125-->[com.facebook.android:facebook-common:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\d81ebf15616a4a396f0f93043384d769\jetified-facebook-common-4.40.0\AndroidManifest.xml:33:19-68
 126        <!--
 127         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
 128         with the application context. This config is merged in with the host app's manifest,
@@ -256,115 +256,115 @@
 133         a completely different provider.
 134        -->
 135        <provider
-135-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:39:9-42:40
+135-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:39:9-42:40
 136            android:name="com.facebook.internal.FacebookInitProvider"
-136-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:40:13-70
+136-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:40:13-70
 137            android:authorities="com.cdsautomatico.apparkame2.FacebookInitProvider"
-137-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:41:13-72
+137-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:41:13-72
 138            android:exported="false" />
-138-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:42:13-37
+138-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:42:13-37
 139
 140        <receiver
-140-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:44:9-50:20
+140-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:44:9-50:20
 141            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-141-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:45:13-86
+141-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:45:13-86
 142            android:exported="false" >
-142-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:46:13-37
+142-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:46:13-37
 143            <intent-filter>
-143-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:47:13-49:29
+143-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:47:13-49:29
 144                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-144-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:48:17-95
-144-->[com.facebook.android:facebook-core:4.40.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/699690e44070e8bae5a0fa227115d2a6/jetified-facebook-core-4.40.0/AndroidManifest.xml:48:25-92
+144-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:48:17-95
+144-->[com.facebook.android:facebook-core:4.40.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c086aa183448b2e8d34b0577a40be969\jetified-facebook-core-4.40.0\AndroidManifest.xml:48:25-92
 145            </intent-filter>
 146        </receiver>
 147
 148        <provider
-148-->[com.squareup.picasso:picasso:2.71828] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/c4c9fcf72d30df15b4aceb26f0631fe6/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+148-->[com.squareup.picasso:picasso:2.71828] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\75c219e3319a2815355da60bde14b227\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 149            android:name="com.squareup.picasso.PicassoProvider"
-149-->[com.squareup.picasso:picasso:2.71828] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/c4c9fcf72d30df15b4aceb26f0631fe6/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+149-->[com.squareup.picasso:picasso:2.71828] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\75c219e3319a2815355da60bde14b227\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 150            android:authorities="com.cdsautomatico.apparkame2.com.squareup.picasso"
-150-->[com.squareup.picasso:picasso:2.71828] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/c4c9fcf72d30df15b4aceb26f0631fe6/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+150-->[com.squareup.picasso:picasso:2.71828] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\75c219e3319a2815355da60bde14b227\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 151            android:exported="false" />
-151-->[com.squareup.picasso:picasso:2.71828] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/c4c9fcf72d30df15b4aceb26f0631fe6/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+151-->[com.squareup.picasso:picasso:2.71828] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\75c219e3319a2815355da60bde14b227\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 152
 153        <receiver
-153-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:29:9-33:20
+153-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:29:9-33:20
 154            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-154-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:30:13-85
+154-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:30:13-85
 155            android:enabled="true"
-155-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:31:13-35
+155-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:31:13-35
 156            android:exported="false" >
-156-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:32:13-37
+156-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:32:13-37
 157        </receiver>
 158        <receiver
-158-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:34:9-42:20
+158-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:34:9-42:20
 159            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-159-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:35:13-100
+159-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:35:13-100
 160            android:enabled="true"
-160-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:36:13-35
+160-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:36:13-35
 161            android:exported="true"
-161-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:37:13-36
+161-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:37:13-36
 162            android:permission="android.permission.INSTALL_PACKAGES" >
-162-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:38:13-69
+162-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:38:13-69
 163            <intent-filter>
-163-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:39:13-41:29
+163-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:39:13-41:29
 164                <action android:name="com.android.vending.INSTALL_REFERRER" />
-164-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:17-79
-164-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:25-76
+164-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:40:17-79
+164-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:40:25-76
 165            </intent-filter>
 166        </receiver>
 167
 168        <service
-168-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:44:9-47:40
+168-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:44:9-47:40
 169            android:name="com.google.android.gms.measurement.AppMeasurementService"
-169-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:45:13-84
+169-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:45:13-84
 170            android:enabled="true"
-170-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:46:13-35
+170-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:46:13-35
 171            android:exported="false" />
-171-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:47:13-37
+171-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:47:13-37
 172        <service
-172-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:48:9-52:72
+172-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:48:9-52:72
 173            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-173-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:49:13-87
+173-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:49:13-87
 174            android:enabled="true"
-174-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:50:13-35
+174-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:50:13-35
 175            android:exported="false"
-175-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:51:13-37
+175-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:51:13-37
 176            android:permission="android.permission.BIND_JOB_SERVICE" />
-176-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/69ee9de5d0cf2bda452161fdca5ac3ac/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:52:13-69
+176-->[com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\db7906c8fd4b802bd08dd233d1d92f21\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:52:13-69
 177        <service
-177-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/3916165cc6c362c8f96f5ddd5254aebe/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
+177-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\8c66a740ba3bb2985415c1fe04ce3596\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:27:9-33:19
 178            android:name="com.google.firebase.components.ComponentDiscoveryService"
-178-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/3916165cc6c362c8f96f5ddd5254aebe/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:28:13-84
+178-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\8c66a740ba3bb2985415c1fe04ce3596\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:28:13-84
 179            android:exported="false" >
-179-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/3916165cc6c362c8f96f5ddd5254aebe/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
+179-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\8c66a740ba3bb2985415c1fe04ce3596\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:29:13-37
 180            <meta-data
-180-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/3916165cc6c362c8f96f5ddd5254aebe/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
+180-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\8c66a740ba3bb2985415c1fe04ce3596\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:30:13-32:85
 181                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-181-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/3916165cc6c362c8f96f5ddd5254aebe/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:31:17-139
+181-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\8c66a740ba3bb2985415c1fe04ce3596\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:31:17-139
 182                android:value="com.google.firebase.components.ComponentRegistrar" />
-182-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/3916165cc6c362c8f96f5ddd5254aebe/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:32:17-82
+182-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\8c66a740ba3bb2985415c1fe04ce3596\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:32:17-82
 183            <meta-data
-183-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:32:13-34:85
+183-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:32:13-34:85
 184                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-184-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:33:17-96
+184-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:33:17-96
 185                android:value="com.google.firebase.components.ComponentRegistrar" />
-185-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:34:17-82
+185-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:34:17-82
 186        </service>
 187
 188        <receiver
-188-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:37:9-44:20
+188-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:37:9-44:20
 189            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-189-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:38:13-78
+189-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:38:13-78
 190            android:exported="true"
-190-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:39:13-36
+190-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:39:13-36
 191            android:permission="com.google.android.c2dm.permission.SEND" >
-191-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:40:13-73
+191-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:40:13-73
 192            <intent-filter>
-192-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:41:13-43:29
+192-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:41:13-43:29
 193                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-193-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:42:17-81
-193-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:42:25-78
+193-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:42:17-81
+193-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:42:25-78
 194            </intent-filter>
 195        </receiver>
 196        <!--
@@ -372,137 +372,137 @@
 198             no need for explicit permissions despite exported="true"
 199        -->
 200        <service
-200-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:50:9-56:19
+200-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:50:9-56:19
 201            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-201-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:51:13-77
+201-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:51:13-77
 202            android:exported="true" >
-202-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:52:13-36
+202-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:52:13-36
 203            <intent-filter android:priority="-500" >
-203-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:53:13-55:29
-203-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:53:28-51
+203-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:53:13-55:29
+203-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:53:28-51
 204                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-204-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:54:17-80
-204-->[com.google.firebase:firebase-iid:17.1.2] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/617920b9d7d9d0df17c2975381afc879/jetified-firebase-iid-17.1.2/AndroidManifest.xml:54:25-77
+204-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:54:17-80
+204-->[com.google.firebase:firebase-iid:17.1.2] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\c45dd62a3a6b249d2926d4c52a4714e7\jetified-firebase-iid-17.1.2\AndroidManifest.xml:54:25-77
 205            </intent-filter>
 206        </service>
 207
 208        <provider
-208-->[com.google.firebase:firebase-common:16.1.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/48a3d863f9c0653bcb6c1a3f53747d91/jetified-firebase-common-16.1.0/AndroidManifest.xml:12:9-16:39
+208-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\392486de32de7998588be6758c4b3954\jetified-firebase-common-16.1.0\AndroidManifest.xml:12:9-16:39
 209            android:name="com.google.firebase.provider.FirebaseInitProvider"
-209-->[com.google.firebase:firebase-common:16.1.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/48a3d863f9c0653bcb6c1a3f53747d91/jetified-firebase-common-16.1.0/AndroidManifest.xml:13:13-77
+209-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\392486de32de7998588be6758c4b3954\jetified-firebase-common-16.1.0\AndroidManifest.xml:13:13-77
 210            android:authorities="com.cdsautomatico.apparkame2.firebaseinitprovider"
-210-->[com.google.firebase:firebase-common:16.1.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/48a3d863f9c0653bcb6c1a3f53747d91/jetified-firebase-common-16.1.0/AndroidManifest.xml:14:13-72
+210-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\392486de32de7998588be6758c4b3954\jetified-firebase-common-16.1.0\AndroidManifest.xml:14:13-72
 211            android:exported="false"
-211-->[com.google.firebase:firebase-common:16.1.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/48a3d863f9c0653bcb6c1a3f53747d91/jetified-firebase-common-16.1.0/AndroidManifest.xml:15:13-37
+211-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\392486de32de7998588be6758c4b3954\jetified-firebase-common-16.1.0\AndroidManifest.xml:15:13-37
 212            android:initOrder="100" />
-212-->[com.google.firebase:firebase-common:16.1.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/48a3d863f9c0653bcb6c1a3f53747d91/jetified-firebase-common-16.1.0/AndroidManifest.xml:16:13-36
+212-->[com.google.firebase:firebase-common:16.1.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\392486de32de7998588be6758c4b3954\jetified-firebase-common-16.1.0\AndroidManifest.xml:16:13-36
 213
 214        <activity
-214-->[com.google.android.gms:play-services-base:16.0.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/f44e653f1bc0446a8a0ae8036943520b/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+214-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\ef597cc301bc53dc0a918bfed85aaea3\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
 215            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-215-->[com.google.android.gms:play-services-base:16.0.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/f44e653f1bc0446a8a0ae8036943520b/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+215-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\ef597cc301bc53dc0a918bfed85aaea3\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
 216            android:exported="false"
-216-->[com.google.android.gms:play-services-base:16.0.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/f44e653f1bc0446a8a0ae8036943520b/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+216-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\ef597cc301bc53dc0a918bfed85aaea3\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
 217            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-217-->[com.google.android.gms:play-services-base:16.0.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/f44e653f1bc0446a8a0ae8036943520b/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+217-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\ef597cc301bc53dc0a918bfed85aaea3\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
 218
 219        <meta-data
-219-->[com.google.android.gms:play-services-basement:16.2.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/b1503ee2ca9cfbf5b8d98f36cc908b61/jetified-play-services-basement-16.2.0/AndroidManifest.xml:23:9-25:69
+219-->[com.google.android.gms:play-services-basement:16.2.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\607eadc953f0c5c3b613a3bb52362caa\jetified-play-services-basement-16.2.0\AndroidManifest.xml:23:9-25:69
 220            android:name="com.google.android.gms.version"
-220-->[com.google.android.gms:play-services-basement:16.2.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/b1503ee2ca9cfbf5b8d98f36cc908b61/jetified-play-services-basement-16.2.0/AndroidManifest.xml:24:13-58
+220-->[com.google.android.gms:play-services-basement:16.2.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\607eadc953f0c5c3b613a3bb52362caa\jetified-play-services-basement-16.2.0\AndroidManifest.xml:24:13-58
 221            android:value="@integer/google_play_services_version" />
-221-->[com.google.android.gms:play-services-basement:16.2.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/b1503ee2ca9cfbf5b8d98f36cc908b61/jetified-play-services-basement-16.2.0/AndroidManifest.xml:25:13-66
+221-->[com.google.android.gms:play-services-basement:16.2.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\607eadc953f0c5c3b613a3bb52362caa\jetified-play-services-basement-16.2.0\AndroidManifest.xml:25:13-66
 222
 223        <receiver android:name="org.altbeacon.beacon.startup.StartupBroadcastReceiver" >
-223-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:21:9-27:20
-223-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:21:19-87
+223-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:21:9-27:20
+223-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:21:19-87
 224            <intent-filter>
-224-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:22:13-26:29
+224-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:22:13-26:29
 225                <action android:name="android.intent.action.BOOT_COMPLETED" />
-225-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:23:17-79
-225-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:23:25-76
+225-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:23:17-79
+225-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:23:25-76
 226                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-226-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:24:17-87
-226-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:24:25-84
+226-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:24:17-87
+226-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:24:25-84
 227                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-227-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:25:17-90
-227-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:25:25-87
+227-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:25:17-90
+227-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:25:25-87
 228            </intent-filter>
 229        </receiver>
 230
 231        <service
-231-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:29:9-34:38
+231-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:29:9-34:38
 232            android:name="org.altbeacon.beacon.service.BeaconService"
-232-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:30:13-70
+232-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:30:13-70
 233            android:enabled="true"
-233-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:31:13-35
+233-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:31:13-35
 234            android:exported="false"
-234-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:32:13-37
+234-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:32:13-37
 235            android:isolatedProcess="false"
-235-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:33:13-44
+235-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:33:13-44
 236            android:label="beacon" />
-236-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:34:13-35
+236-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:34:13-35
 237        <service
-237-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:35:9-38:40
+237-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:35:9-38:40
 238            android:name="org.altbeacon.beacon.BeaconIntentProcessor"
-238-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:36:13-70
+238-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:36:13-70
 239            android:enabled="true"
-239-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:37:13-35
+239-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:37:13-35
 240            android:exported="false" />
-240-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:38:13-37
+240-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:38:13-37
 241        <service
-241-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:39:9-48:19
+241-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:39:9-48:19
 242            android:name="org.altbeacon.beacon.service.ScanJob"
-242-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:40:13-64
+242-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:40:13-64
 243            android:permission="android.permission.BIND_JOB_SERVICE" >
-243-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:41:13-69
+243-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:41:13-69
 244            <meta-data
-244-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:42:13-44:45
+244-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:42:13-44:45
 245                android:name="immediateScanJobId"
-245-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:43:17-50
+245-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:43:17-50
 246                android:value="208352939" />
-246-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:44:17-42
+246-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:44:17-42
 247            <meta-data
-247-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:45:13-47:45
+247-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:45:13-47:45
 248                android:name="periodicScanJobId"
-248-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:46:17-49
+248-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:46:17-49
 249                android:value="208352940" />
-249-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:47:17-42
+249-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:47:17-42
 250        </service>
 251        <service
-251-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:49:9-55:19
+251-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:49:9-55:19
 252            android:name="org.altbeacon.bluetooth.BluetoothTestJob"
-252-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:50:13-68
+252-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:50:13-68
 253            android:permission="android.permission.BIND_JOB_SERVICE" >
-253-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:51:13-69
+253-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:51:13-69
 254            <meta-data
-254-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:52:13-54:46
+254-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:52:13-54:46
 255                android:name="jobId"
-255-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:53:17-37
+255-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:53:17-37
 256                android:value="1799803768" />
-256-->[org.altbeacon:android-beacon-library:2.16.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/009a0483e7c36934cb58bb697cb1ce73/jetified-android-beacon-library-2.16.1/AndroidManifest.xml:54:17-43
+256-->[org.altbeacon:android-beacon-library:2.16.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\7156638c012d7247e3060cb9db1eb55b\jetified-android-beacon-library-2.16.1\AndroidManifest.xml:54:17-43
 257        </service>
 258
 259        <provider
-259-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/657282d0be0ac83b4229cf0468b1932c/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
+259-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\657282d0be0ac83b4229cf0468b1932c\jetified-crashlytics-2.10.1\AndroidManifest.xml:19:9-23:38
 260            android:name="com.crashlytics.android.CrashlyticsInitProvider"
-260-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/657282d0be0ac83b4229cf0468b1932c/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
+260-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\657282d0be0ac83b4229cf0468b1932c\jetified-crashlytics-2.10.1\AndroidManifest.xml:20:13-75
 261            android:authorities="com.cdsautomatico.apparkame2.crashlyticsinitprovider"
-261-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/657282d0be0ac83b4229cf0468b1932c/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
+261-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\657282d0be0ac83b4229cf0468b1932c\jetified-crashlytics-2.10.1\AndroidManifest.xml:21:13-75
 262            android:exported="false"
-262-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/657282d0be0ac83b4229cf0468b1932c/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
+262-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\657282d0be0ac83b4229cf0468b1932c\jetified-crashlytics-2.10.1\AndroidManifest.xml:22:13-37
 263            android:initOrder="90" />
-263-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/657282d0be0ac83b4229cf0468b1932c/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
+263-->[com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\657282d0be0ac83b4229cf0468b1932c\jetified-crashlytics-2.10.1\AndroidManifest.xml:23:13-35
 264        <provider
-264-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/dc6829928256cf1b930c4340aa573c00/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+264-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\dc6829928256cf1b930c4340aa573c00\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 265            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-265-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/dc6829928256cf1b930c4340aa573c00/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+265-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\dc6829928256cf1b930c4340aa573c00\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
 266            android:authorities="com.cdsautomatico.apparkame2.lifecycle-process"
-266-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/dc6829928256cf1b930c4340aa573c00/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+266-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\dc6829928256cf1b930c4340aa573c00\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
 267            android:exported="false"
-267-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/dc6829928256cf1b930c4340aa573c00/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+267-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\dc6829928256cf1b930c4340aa573c00\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
 268            android:multiprocess="true" />
-268-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/dc6829928256cf1b930c4340aa573c00/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+268-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Desarrollo\.gradle\caches\transforms-2\files-2.1\dc6829928256cf1b930c4340aa573c00\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
 269    </application>
 270
 271</manifest>

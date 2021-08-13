@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Op_ApparkameAndroid-master.iml" filepath="$PROJECT_DIR$/.idea/Op_ApparkameAndroid-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Op_ApparkameAndroid-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Op_ApparkameAndroid-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Op_ApparkameAndroid.iml" filepath="$PROJECT_DIR$/Op_ApparkameAndroid.iml" group="Op_ApparkameAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Op_ApparkameAndroid/app" />
     </modules>
   </component>
 </project>

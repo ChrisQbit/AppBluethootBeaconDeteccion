@@ -9,7 +9,7 @@ public final class BuildConfig {
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 24;
-  public static final String VERSION_NAME = "2.1.5";
+  public static final String VERSION_NAME = "3.3.3";
   // Fields from build type: debug
   public static final String API_NETCORE = "https://boton.app";
   public static final String API_URL = "https://boton.app:8080";

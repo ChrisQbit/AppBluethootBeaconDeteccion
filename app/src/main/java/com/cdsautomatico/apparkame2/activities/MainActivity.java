@@ -69,6 +69,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 	  private int timesLostTerminal = 0;
 
+	  Terminal[] terminales;
+	  Double[] distancias;
+
 	  @Override
 	  protected void onCreate (Bundle savedInstanceState)
 	  {
@@ -163,8 +166,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 		    super.onPause();
 		    //if (beaconManager.isBound(this))
 		    {
+				 System.out.println("Estoy empezando");
 				 beaconManager.unbind(this);
 				 beaconManager.removeAllRangeNotifiers();
+				 System.out.println("Ya acabe de hacer eso");
 		    }
 	  }
 
@@ -479,6 +484,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 				 List<Terminal> availableTerminals = new ArrayList<>();
 				 List<Parking> parkings = parkingViewModel.getParkingList().getValue();
 				 if (parkings == null) return;
+
+				 terminales=new Terminal[beacons.size()];
+				 distancias=new Double[beacons.size()];
+				 int k=0;
+
 				 for (Beacon beacon : beacons)
 				 {
 					   String beaconUUID = beacon.getId1().toString().replace("-", "").toLowerCase();
@@ -495,12 +505,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 								  if (terminal.getBeaconUUID().equals(beaconUUID))
 								  {
 									    terminal.setActualIntensity(beacon.getRssi());
-									    terminalFromBeacon = terminal;
+									    //terminalFromBeacon = terminal;
+									    terminales[k]=terminal;
+									    distancias[k]=beacon.getDistance();
+									    k++;
 									    break parkingFor;
 								  }
 							}
 					   }
-					   if (terminalFromBeacon != null && beacon.getRssi() > terminalFromBeacon.getDetectionIntensity())
+					   System.out.println("*******"+"\n++++++++\nDist norm: "+beacon.getDistance()+"\nUUID4:"+beacon.getId1()+"\nTxPower:"+beacon.getTxPower()+"\nRssi:"+beacon.getRssi()+"\n++++++\n"+"++++++++");
+					   /*if (terminalFromBeacon != null && beacon.getRssi() > terminalFromBeacon.getDetectionIntensity())
 					   {
 					   	if (beacon.getDistance() < 0.0){
 
@@ -514,10 +528,49 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 					   		//Far
 							availableTerminals.add(terminalFromBeacon);
 						}
-					   }
+					   }*/
+				 }
+				 ordenar(terminales, distancias, 0, terminales.length-1);
+				 for(Terminal ter: terminales)
+					   availableTerminals.add(ter);
+				 for (int i=0; i<distancias.length; i++){
+					   System.out.println(distancias[i]);
 				 }
 				 parkingViewModel.setDataFromBeaconScann(availableTerminals);
 		    }).start();
+	  }
+
+	  public static void ordenar(Terminal ter[],Double dist[], int izq, int der){
+		    double pivoteD=dist[izq];
+		    Terminal pivoteT=ter[izq];
+		    int i=izq;
+		    int j=der;
+		    double auxD;
+		    Terminal auxT;
+		    while(i<j){
+				 while(dist[i] <= pivoteD && i < j) i++;
+				 while(dist[j] > pivoteD) j--;
+				 if (i < j) {
+					   auxD= dist[i];
+					   dist[i]=dist[j];
+					   dist[j]=auxD;
+
+					   auxT=ter[i];
+					   ter[i]=ter[j];
+					   ter[j]=auxT;
+				 }
+		    }
+
+		    dist[izq]=dist[j];
+		    dist[j]=pivoteD;
+
+		    ter[izq]=ter[j];
+		    ter[j]=pivoteT;
+
+		    if (izq<j-1)
+				 ordenar(ter, dist, izq, j-1);
+		    if (j+1<der)
+				 ordenar(ter, dist, j+1, der);
 	  }
 
 }

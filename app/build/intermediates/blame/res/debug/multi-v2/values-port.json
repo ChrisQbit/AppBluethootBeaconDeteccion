@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/802e1ea396b829c99d9325b362cbc3de/appcompat-1.0.0/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\Desarrollo\\.gradle\\caches\\transforms-2\\files-2.1\\802e1ea396b829c99d9325b362cbc3de\\appcompat-1.0.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

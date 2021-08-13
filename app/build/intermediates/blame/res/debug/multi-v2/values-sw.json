@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
-                    "source": "/Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/f44e653f1bc0446a8a0ae8036943520b/jetified-play-services-base-16.0.1/res/values-sw/values.xml",
+                    "source": "C:\\Users\\Desarrollo\\.gradle\\caches\\transforms-2\\files-2.1\\ef597cc301bc53dc0a918bfed85aaea3\\jetified-play-services-base-16.0.1\\res\\values-sw\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/b1503ee2ca9cfbf5b8d98f36cc908b61/jetified-play-services-basement-16.2.0/res/values-sw/values.xml",
+                    "source": "C:\\Users\\Desarrollo\\.gradle\\caches\\transforms-2\\files-2.1\\607eadc953f0c5c3b613a3bb52362caa\\jetified-play-services-basement-16.2.0\\res\\values-sw\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/802e1ea396b829c99d9325b362cbc3de/appcompat-1.0.0/res/values-sw/values-sw.xml",
+                    "source": "C:\\Users\\Desarrollo\\.gradle\\caches\\transforms-2\\files-2.1\\802e1ea396b829c99d9325b362cbc3de\\appcompat-1.0.0\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/brianbaragar/.gradle/caches/transforms-2/files-2.1/1dec45bf5dcd1baf46e0774492702666/core-1.0.0/res/values-sw/values-sw.xml",
+                    "source": "C:\\Users\\Desarrollo\\.gradle\\caches\\transforms-2\\files-2.1\\1dec45bf5dcd1baf46e0774492702666\\core-1.0.0\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

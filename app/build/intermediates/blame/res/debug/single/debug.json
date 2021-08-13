@@ -1,698 +1,698 @@
 [
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logo.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-mdpi/ic_logo.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_item_list_second.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\history_item_list_second.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ticket_avatar_estacionamiento.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/ticket_avatar_estacionamiento.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_commissions_item_list.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\commissions_item_list.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_login_form.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_login_form.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visa.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_visa.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_payment_item_list.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/payment_item_list.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_in.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\anim\\scale_in.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/anim_scale_out.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/anim/scale_out.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_checkbox_tick_green.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_checkbox_tick_green.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_car.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-mdpi/ic_car.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_spaces.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\circle_spaces.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_commissions_item_list.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/commissions_item_list.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_car.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_car.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_checkbox_tick_green.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/ic_checkbox_tick_green.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_close.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_onboarding_1_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_onboarding_1_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_lightgray.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\background_lightgray.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_onboarding_1_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_onboarding_1_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_onboarding_1.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_onboarding_1.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_card_background.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/card_background.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_onboarding.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_onboarding_1_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/ic_onboarding_1_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_stroke_void_circle.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\blue_stroke_void_circle.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_light_gray_bottom_border.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/light_gray_bottom_border.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circular_outlined_button.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_add_circular_outlined_button.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_transparent.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/transparent.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\xml\\network_security_config.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_fondo_carril_unico.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/fondo_carril_unico.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_boton_apparkame.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\boton_apparkame.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_fgmt_onboarding_1.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/fgmt_onboarding_1.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_apparkame_rojo_24dp.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_apparkame_rojo_24dp.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_logo_foreground.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_logo_foreground.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_carril_unico.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\fondo_carril_unico.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_add_black_24dp.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_add_black_24dp.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_logo_foreground.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_nav_head_drawer.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/nav_head_drawer.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_profile.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/raw_login_background.mp4.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/raw/login_background.mp4"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_checkbox_tick_green.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_checkbox_tick_green.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_mastercard.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_mastercard.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_warning.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_warning.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_delete_button.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_delete_button.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\logo_splash.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo_splash.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/logo_splash.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_default.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\tab_indicator_default.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_transparent.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/transparent.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_corner_radius.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\background_corner_radius.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_template_list_radio_forma_pago.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\template_list_radio_forma_pago.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_onboarding_1_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_onboarding_1_background.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_onboarding_1.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-anydpi-v26/ic_onboarding_1.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_apparkame_rojo_24dp.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_apparkame_rojo_24dp.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_background_lightgray.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/background_lightgray.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_checkbox_tick_gray.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/ic_checkbox_tick_gray.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\rectangle.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_fondo_header.jpg.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/fondo_header.jpg"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_no_mapa.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_no_mapa.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_onboarding_3.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_onboarding_3.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\logo_splash.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_car.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_car.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_onboarding_2.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_onboarding_2.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_visa.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_visa.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\et_background.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_transparent.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\transparent.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_onboarding_1_background.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_onboarding_1_background.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fondo_header.jpg.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\fondo_header.jpg"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_tab_indicator_default.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/tab_indicator_default.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_logo_splash.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/logo_splash.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_logo_completo_claro.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_logo_completo_claro.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_button.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_delete_button.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_transparent.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/transparent.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_dialogo_forma_pago.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/dialogo_forma_pago.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_apparkame_rojo_24dp.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_apparkame_rojo_24dp.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_recuperar_contrasenia.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_recuperar_contrasenia.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu_right_navigator.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\menu\\right_navigator.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_onboarding.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_onboarding.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_fondo_header.jpg.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/fondo_header.jpg"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_form.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_login_form.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_commissions_dialog_fragment.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/commissions_dialog_fragment.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_car.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_car.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_formas_pago.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_formas_pago.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ticket_avatar_estacionamiento.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/ticket_avatar_estacionamiento.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_apparkame_rojo_24dp.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/ic_apparkame_rojo_24dp.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_checkbox_tick_gray.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_checkbox_tick_gray.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_onboarding_1_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_onboarding_1_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fgmt_onboarding_4.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\fgmt_onboarding_4.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/anim_grow_animation.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/anim/grow_animation.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_checkbox_tick_green.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/ic_checkbox_tick_green.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_dialogo_estacionamiento.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/dialogo_estacionamiento.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_onboarding_3.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_onboarding_3.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_checkbox_background.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/checkbox_background.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_fgmt_onboarding_3.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/fgmt_onboarding_3.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_payment_item_list_second.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\payment_item_list_second.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_completo.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_logo_completo.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_onboarding_2.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_onboarding_2.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_template_list_tarjeta.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\template_list_tarjeta.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/xml/network_security_config.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogo_mensaje.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\dialogo_mensaje.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_onboarding_1_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_onboarding_1_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_carril_derecho.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\fondo_carril_derecho.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recuperar_contrasenia.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_recuperar_contrasenia.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_credit_card.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_credit_card.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_green.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\button_green.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logo_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ticket_avatar_estacionamiento.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\ticket_avatar_estacionamiento.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_onboarding_1_foreground.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_onboarding_1_foreground.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_recurso_3.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_recurso_3.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_apparkame_rojo_24dp.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/ic_apparkame_rojo_24dp.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_onboarding_1.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_onboarding_1.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_recurso_1.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_recurso_1.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_dialogo_mensaje.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/dialogo_mensaje.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fgmt_onboarding_1.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\fgmt_onboarding_1.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_logo.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pensiones.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_pensiones.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_checkbox_tick_gray.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/ic_checkbox_tick_gray.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_primary.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\button_primary.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/anim_grow_to_fadeout.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/anim/grow_to_fadeout.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\tab_selector.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_onboarding_1_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_onboarding_1_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\car_background.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_add_circular_outlined_button.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_add_circular_outlined_button.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo_splash.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/logo_splash.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_car.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_car.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_history_item_list_second.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/history_item_list_second.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ticket_avatar_estacionamiento.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\ticket_avatar_estacionamiento.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_background_corner_radius.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/background_corner_radius.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_profile.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_profile.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fondo_header.jpg.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\fondo_header.jpg"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_no_mapa.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_no_mapa.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_recurso_4.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_recurso_4.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\logo_splash.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_apparkame_rojo_24dp.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/ic_apparkame_rojo_24dp.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extend_validity.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_extend_validity.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_checkbox_tick_green.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/ic_checkbox_tick_green.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_car.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_car.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_et_background.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/et_background.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_black_24dp.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_menu_black_24dp.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_fragment_ticket.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/fragment_ticket.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_checkbox_tick_gray.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_checkbox_tick_gray.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_facebook_logo_red.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_facebook_logo_red.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_fondo_header.jpg.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/fondo_header.jpg"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogo_seleccionar_carril.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\dialogo_seleccionar_carril.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logo_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-mdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_car.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_car.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logo.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_logo.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fondo_header.jpg.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\fondo_header.jpg"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\card_background.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_tab_indicator_selected.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/tab_indicator_selected.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_car.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_car.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logo.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_logo.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_formas_pago_agregar.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_formas_pago_agregar.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton_apparkame.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/boton_apparkame.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_transparent.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\transparent.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_rectangle.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/rectangle.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_payment_item_list.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\payment_item_list.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_isotipo_apparkame.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_isotipo_apparkame.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_template_list_pension.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\template_list_pension.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_amex.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_amex.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fgmt_onboarding_2.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\fgmt_onboarding_2.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_boton_apparkame.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\boton_apparkame.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_template_list_radio_forma_pago.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/template_list_radio_forma_pago.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_boton_apparkame.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\boton_apparkame.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_fondo_carril_derecho.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/fondo_carril_derecho.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_logo_round.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_only_b.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_only_b.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ticket_avatar_estacionamiento.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/ticket_avatar_estacionamiento.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_checkmark.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\checkbox_checkmark.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_template_list_pension.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/template_list_pension.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_facebook.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\button_facebook.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_to_fadeout.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\anim\\grow_to_fadeout.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logo_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_checkbox_tick_green.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_checkbox_tick_green.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_boton_apparkame.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/boton_apparkame.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_credit_card.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_credit_card.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_history.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_history.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ticket.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\fragment_ticket.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logo_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_carril_izquierdo.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\fondo_carril_izquierdo.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_logo_splash.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/logo_splash.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_recurso_2.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_recurso_2.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_circle_blue.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/circle_blue.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_amex.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_amex.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_boton_apparkame.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/boton_apparkame.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_out.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\anim\\scale_out.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_splash.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_parking_header_bg.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/parking_header_bg.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_shrink_animation.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\anim\\shrink_animation.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_car.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_car.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parking_header_bg.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\parking_header_bg.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_menu_black_24dp.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_menu_black_24dp.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_recurso_3.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_recurso_3.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_onboarding_1_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_onboarding_1_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_checkbox_tick_green.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/ic_checkbox_tick_green.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fgmt_onboarding_3.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\fgmt_onboarding_3.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_history_item_list.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/history_item_list.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_onboarding_1_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_onboarding_1_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_splash_screen.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/splash_screen.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_apparkame.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\logo_apparkame.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_logo.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_logo.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_checkbox_tick_gray.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_checkbox_tick_gray.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ticket_avatar_estacionamiento.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/ticket_avatar_estacionamiento.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_animation.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\anim\\grow_animation.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_form.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_signup_form.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_button_green.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/button_green.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_onboarding_1_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_onboarding_1_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_fondo_header.jpg.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/fondo_header.jpg"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ticket_avatar_estacionamiento.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ticket_avatar_estacionamiento.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_fgmt_onboarding_4.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/fgmt_onboarding_4.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_login.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_commissions_dialog_fragment.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\commissions_dialog_fragment.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_car.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-hdpi/ic_car.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_onboarding_1_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_onboarding_1_foreground.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_car_background.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/car_background.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_light_gray_bottom_border.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\light_gray_bottom_border.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_button_primary.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/button_primary.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_checkbox_tick_green.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_checkbox_tick_green.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ticket_avatar_estacionamiento.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-hdpi/ticket_avatar_estacionamiento.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ticket_avatar_estacionamiento.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ticket_avatar_estacionamiento.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_checkbox_checkmark.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/checkbox_checkmark.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_apparkame_rojo_24dp.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_apparkame_rojo_24dp.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_payment_item_list_second.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/payment_item_list_second.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogo_estacionamiento.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\dialogo_estacionamiento.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/menu_right_navigator.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/menu/right_navigator.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_checkbox_tick_gray.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_checkbox_tick_gray.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_logo_splash.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/logo_splash.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boton_apparkame.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\boton_apparkame.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_checkbox_tick_gray.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/ic_checkbox_tick_gray.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fondo_header.jpg.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\fondo_header.jpg"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logo.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_logo.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_signup_form.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_signup_form.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_recurso_4.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_recurso_4.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_round.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_perfil.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_perfil.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login_signal.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_login_signal.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_login_signal.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_login_signal.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\logo_splash.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_car.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xhdpi/ic_car.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_selected.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\tab_indicator_selected.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/anim_scale_in.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/anim/scale_in.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_facebook_logo_red.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_facebook_logo_red.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogo_forma_pago.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\dialogo_forma_pago.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logo_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_checkbox_tick_green.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_checkbox_tick_green.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\checkbox_background.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_recurso_2.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_recurso_2.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_item_list.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\history_item_list.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_apparkame_rojo_24dp.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/ic_apparkame_rojo_24dp.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_checkbox_tick_gray.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_checkbox_tick_gray.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_checkbox_tick_gray.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/ic_checkbox_tick_gray.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_isotipo_apparkame.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_isotipo_apparkame.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_formas_pago_agregar.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_formas_pago_agregar.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_transparent.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\transparent.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_extend_validity.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_extend_validity.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_history.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_apparkame_rojo_24dp.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/ic_apparkame_rojo_24dp.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_transparent.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\transparent.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logo.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_logo.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_onboarding_1_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_onboarding_1_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_boton_apparkame.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/boton_apparkame.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_apparkame_rojo_24dp.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_apparkame_rojo_24dp.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton_apparkame.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxhdpi/boton_apparkame.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_recurso_1.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_recurso_1.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_template_list_tarjeta.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/template_list_tarjeta.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\raw_login_background.mp4.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\raw\\login_background.mp4"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_transparent.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xxxhdpi/transparent.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_only_b.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_only_b.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_blue.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\circle_blue.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_blue_stroke_void_circle.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/blue_stroke_void_circle.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_checkbox_tick_gray.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/ic_checkbox_tick_gray.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fondo_header.jpg.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-mdpi\\fondo_header.jpg"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/anim_shrink_animation.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/anim/shrink_animation.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_formas_pago.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_formas_pago.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_transparent.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/transparent.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\splash_screen.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_fondo_carril_izquierdo.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/fondo_carril_izquierdo.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_warning.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_button_facebook.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/button_facebook.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mastercard.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_mastercard.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_logo_apparkame.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/logo_apparkame.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_head_drawer.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\nav_head_drawer.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_activity_pensiones.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/activity_pensiones.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_tab_selector.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/tab_selector.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_boton_apparkame.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-xxxhdpi\\boton_apparkame.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_car.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-xxxhdpi/ic_car.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_transparent.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\transparent.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_fgmt_onboarding_2.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/fgmt_onboarding_2.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_logo.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_close.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_close.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/layout_dialogo_seleccionar_carril.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/layout/dialogo_seleccionar_carril.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_checkbox_tick_green.png.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-mdpi/ic_checkbox_tick_green.png"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_logo_completo.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_logo_completo.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_circle_spaces.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/circle_spaces.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ticket_avatar_estacionamiento.png.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable-hdpi\\ticket_avatar_estacionamiento.png"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_fondo_header.jpg.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable-xhdpi/fondo_header.jpg"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\layout\\activity_perfil.xml"
     },
     {
-        "merged": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/build/intermediates/res/merged/debug/drawable_ic_onboarding_1.xml.flat",
-        "source": "/Users/brianbaragar/Apps/Op_ApparkameAndroid-master/app/src/main/res/drawable/ic_onboarding_1.xml"
+        "merged": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_completo_claro.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\Documents\\Corza\\Android\\Op_ApparkameAndroid\\app\\src\\main\\res\\drawable\\ic_logo_completo_claro.xml"
     }
 ]

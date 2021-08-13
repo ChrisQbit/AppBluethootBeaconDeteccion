@@ -3,7 +3,6 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03e9a1838f396b838149449bd4f0488b/jetified-fabric-1.4.8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03e9a1838f396b838149449bd4f0488b/jetified-fabric-1.4.8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03e9a1838f396b838149449bd4f0488b/jetified-fabric-1.4.8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
