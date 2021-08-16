@@ -129,7 +129,8 @@ public class ParkingViewModel extends AndroidViewModel
 
 	  public void setDataFromBeaconScann (List<Terminal> availableTerminals)
 	  {
-		    List<Terminal> filteredTerminals = new ArrayList<>();
+		    if(availableTerminals!=null){
+	  	    List<Terminal> filteredTerminals = new ArrayList<>();
 		    accessControlTerminals = new ArrayList<>();
 		    entryTerminals = new ArrayList<>();
 		    exitTerminals = new ArrayList<>();
@@ -152,5 +153,13 @@ public class ParkingViewModel extends AndroidViewModel
 				 }
 		    }
 		    handler.post(() -> this.availableTerminals.setValue(filteredTerminals));
+		    }else{
+		    	  if(entryTerminals!=null)
+		    	  	entryTerminals.clear();
+		    	  if(exitTerminals!=null)
+		    	  	  exitTerminals.clear();
+		    	  if(accessControlTerminals!=null)
+		    	  	  accessControlTerminals.clear();
+		    }
 	  }
 }

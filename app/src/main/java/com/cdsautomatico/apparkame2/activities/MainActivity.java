@@ -166,10 +166,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 		    super.onPause();
 		    //if (beaconManager.isBound(this))
 		    {
-				 System.out.println("Estoy empezando");
 				 beaconManager.unbind(this);
 				 beaconManager.removeAllRangeNotifiers();
-				 System.out.println("Ya acabe de hacer eso");
 		    }
 	  }
 
@@ -474,6 +472,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 					   //Log.d(TAG, "SIN CERCANO");
 				 }*/
 				 //Log.d(TAG, "---");
+		    }else{
+				 parkingViewModel.setDataFromBeaconScann(null);
 		    }
 	  }
 

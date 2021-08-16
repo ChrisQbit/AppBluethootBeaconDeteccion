@@ -269,7 +269,9 @@ public class TicketFragment extends Fragment implements /*BeaconConsumer, */View
 		    {
 				 if (availableTerminals == null || availableTerminals.size() == 0 || (parkingViewModel.hasAntiPassPassBack() && parkingViewModel.getEntryTerminals().size() == 0))
 				 {
-					   spannableString = showNoEntryNear();
+					  tvTerminal.setVisibility(View.VISIBLE);
+				 	  tvTerminal.setText("Entrada/Salida");
+				 	  spannableString = showNoEntryNear();
 				 }
 				 else if (parkingViewModel.getEntryTerminals().size() > 0 && (parkingViewModel.getExitTerminals().size() == 0 || parkingViewModel.hasAntiPassPassBack()))
 				 {
